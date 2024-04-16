@@ -10,7 +10,7 @@ $mysql = new mysqli(
     $env["DATABASE_USERNAME"],
     $env["DATABASE_PASSWORD"],
     $env["DATABASE_NAME"],
-    $env["DATABASE_PORT"]
+    intval($env["DATABASE_PORT"])
 );
 
 if ($mysql->connect_error) {
