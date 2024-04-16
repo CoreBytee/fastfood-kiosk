@@ -3,11 +3,9 @@
 <?php
 $env = parse_ini_file(__DIR__ . '/../../.env');
 
-var_dump($env);
-
 $mysql = new mysqli(
     $env["DATABASE_HOST"],
-    $env["DATABASE_USERNAME"],
+    $env["DATABASE_USER"],
     $env["DATABASE_PASSWORD"],
     $env["DATABASE_NAME"],
     intval($env["DATABASE_PORT"])
