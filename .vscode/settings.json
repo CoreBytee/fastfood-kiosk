@@ -1,0 +1,5 @@
+{
+    "phpserver.port": 3000,
+    "phpserver.relativePath": "./src/",
+    "phpserver.router": null
+}
