@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.button, button, input {
+    padding: 20px;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
+body {
+    height: 100vh;
+
+    .topbar {
+        height: 15%;
+        margin: 20px;
+        gap: 10px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .logo {
+            height: 100%;
+        }
+
+        .searchbar {
+            margin-left: auto;
+        }
+    }
+
+    .container {
+        height: 85%;
+    }
+}
