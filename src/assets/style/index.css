@@ -1,3 +1,10 @@
+:root {
+    --color-white-primary: #f4eade;
+    --color-white-secondary: #fffbf2;
+    --color-white-tertiary: #fefefe;
+    --color-button: #ddd4c3;
+}
+
 html, body {
     margin: 0;
 
@@ -13,9 +20,9 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .button, button, input {
-    padding: 20px;
-    border: 2px solid #000;
-    border-radius: 20px;
+    padding: 10px;
+    background-color: var(--color-button);
+    border-radius: 10px;
 }
 
 body {
