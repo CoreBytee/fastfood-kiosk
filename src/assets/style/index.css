@@ -2,13 +2,16 @@
     --color-white-primary: #f4eade;
     --color-white-secondary: #fffbf2;
     --color-white-tertiary: #fefefe;
+
+    --color-text: #512518;
     --color-button: #ddd4c3;
-}
+    --color-button-hover: #c5b8a9;
+    --color-button-important: #d62400;
+    --color-button-important-hover: #b31e00;
 
-html, body {
-    margin: 0;
-
-    font-family: Arial, Helvetica, sans-serif;
+    --font-arial: "Arial", sans-serif;
+    --font-anton: "Anton", sans-serif;
+    --font-putua-one: "Patua One", serif;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
