@@ -14,26 +14,57 @@
     --font-putua-one: "Patua One", serif;
 }
 
-p, h1, h2, h3, h4, h5, h6 {
-    margin: 0;
+html,
+body {
+    font-family: var(--font-arial);
 }
 
 * {
+    margin: 0;
+    padding: 0;
+    color: var(--color-text);
     box-sizing: border-box;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
-.button, button, input {
+.button,
+button,
+input {
     padding: 10px;
     background-color: var(--color-button);
     border-radius: 10px;
+    transition: background-color 0.3s;
+    font-size: 1.5rem;
+
+    &:hover {
+        background-color: var(--color-button-hover);
+    }
+
+    &.bigbutton {
+        padding: 20px;
+        font-size: 1.5rem;
+        background-color: var(--color-button-important);
+        border: none;
+        width: 100%;
+        font-weight: bold;
+
+        &:hover {
+            background-color: var(--color-button-important-hover);
+        }
+    }
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+
+    background-color: var(--color-white-secondary);
     height: 100vh;
 
     .topbar {
         height: 15%;
-        margin: 20px;
+        padding: 20px;
         gap: 10px;
 
         display: flex;
@@ -47,9 +78,64 @@ body {
         .searchbar {
             margin-left: auto;
         }
+
+        .languageselector {
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+            height: 47px;
+
+            img {
+                height: 100%;
+                border-radius: 5px;
+            }
+        }
     }
 
     .container {
-        height: 85%;
+        display: flex;
+        flex-direction: row;
+
+        height: 100%;
+
+        .screens,
+        .order {
+            height: 100%;
+        }
+
+        .screens {
+            background-color: var(--color-white-primary);
+            width: 70%;
+            border-top-right-radius: 30px;
+        }
+        
+        .order {
+            display: flex;
+            flex-direction: column;
+
+            width: 30%;
+
+            .receiptholder {
+                height: 80%;
+            }
+
+            .actions {
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+
+                padding: 20px;
+                height: 20%;
+                background-color: var(--color-white-tertiary);
+                
+                border-top-left-radius: 20px;
+                border-top-right-radius: 20px;
+
+                .totalprice {
+                    display: flex;
+                    justify-content: space-between;
+                }
+            }
+        }
     }
 }
