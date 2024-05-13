@@ -78,499 +78,582 @@
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/d16061d0a4db02218ebcdb3a1f9c0816e6cbd535-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Classic Master",
             "Category": 0,
-            "Link": "https://www.burgerking.nl/menu/picker-baf0b148-8072-47f8-ab70-ed8c6023d7bb"
+            "Link": "https://www.burgerking.nl/menu/picker-baf0b148-8072-47f8-ab70-ed8c6023d7bb",
+            "Description": "Dit is nu al een klassieker. Met maar liefst 150 gram flame-grilled Black Angus beef, crispy bacon, kaas, gefrituurde uitjes, verse tomaat en rucola is dit knapperig getoaste broodje overladen met smaak. De mayonaise en BBQ saus maken de classic helemaal master."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/accc8d2c0491f2e4bb1d02baed5673ed18e3dbcd-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Classic Master Double",
             "Category": 0,
-            "Link": "https://www.burgerking.nl/menu/picker-5be79377-23b4-4d52-9ef6-430509724ad3"
+            "Link": "https://www.burgerking.nl/menu/picker-5be79377-23b4-4d52-9ef6-430509724ad3",
+            "Description": "Dit is nu al een klassieker. Met maar liefst twee keer 150 gram flame-grilled Black Angus beef, crispy bacon, kaas, gefrituurde uitjes, verse tomaat en rucola is dit knapperig getoaste broodje overladen met smaak. Mayonaise en BBQ-saus maken van de classic een masterpiece."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/feb290bf31daa9c1abfdb87d8c2825fb7b5c18c8-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Champ 'n' Cheese Master",
             "Category": 0,
-            "Link": "https://www.burgerking.nl/menu/picker-e8e7b45e-8b51-4672-93c9-fa6642174c62"
+            "Link": "https://www.burgerking.nl/menu/picker-e8e7b45e-8b51-4672-93c9-fa6642174c62",
+            "Description": "Alsof je in een steakhouse zit. Een vers getoast brioche broodje. Met maar liefst 150 gram flame-grilled Black Angus beef en gegrilde BBQ-champignons, kaas, verse uien én gefrituurd, tomaat en rucola. De Chili Kaas saus zorgt voor een extra pittige bite. Hier heb je de handen vol aan."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/3d79e548a5236b8c1999ab384a9eadb0739330d4-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Champ 'n' Cheese Master Double",
             "Category": 0,
-            "Link": "https://www.burgerking.nl/menu/picker-89858d28-0320-4a9d-951c-ce3638215b17"
+            "Link": "https://www.burgerking.nl/menu/picker-89858d28-0320-4a9d-951c-ce3638215b17",
+            "Description": "Alsof je in een steakhouse zit. Een vers getoast brioche broodje. Met maar liefst twee keer 150 gram flame-grilled Black Angus beef en gegrilde BBQ-champignons, dubbel kaas, verse uien én gefrituurd, tomaat en rucola. De Chili Kaas saus zorgt voor een extra pittige bite. Hier heb je de handen vol aan."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/4f88bfc327742be2c45335a32bac600f5d3f2bf8-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Chili Mayo",
             "Category": 1,
-            "Link": "https://www.burgerking.nl/menu/picker-705f7a86-d7e5-4566-9e99-1ba59e1582cc"
+            "Link": "https://www.burgerking.nl/menu/picker-705f7a86-d7e5-4566-9e99-1ba59e1582cc",
+            "Description": "Waar rook is… is de nieuwe Chili Mayo. Een lekkere licht pittige burger met Flame Grilled beef, smokey bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Eet smakelijk!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/d9f09a515faaa969db3b09506addb53c2179aa23-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Chili Mayo Double",
             "Category": 1,
-            "Link": "https://www.burgerking.nl/menu/picker-5bc0549a-f01b-4a16-b5ed-9d640c1db259"
+            "Link": "https://www.burgerking.nl/menu/picker-5bc0549a-f01b-4a16-b5ed-9d640c1db259",
+            "Description": "Waar rook is… is de nieuwe Chili Mayo Double. Een lekkere licht pittige burger met dubbel Flame Grilled beef, smokey bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Eet smakelijk!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/579aa7c1a26b3d9d168d69e4f6203d74d65a11fd-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Chili Mayo Chicken",
             "Category": 1,
-            "Link": "https://www.burgerking.nl/menu/picker-c6db23c4-f6f5-4579-8bda-5d223a5e25e6"
+            "Link": "https://www.burgerking.nl/menu/picker-c6db23c4-f6f5-4579-8bda-5d223a5e25e6",
+            "Description": "Chili Mayo Chicken is een hottie… Een licht pittige kipburger met smokey bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Eet smakelijk!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/fde86a333083df96eb29839880889c6280e1c8cd-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Veggie Chili Mayo",
             "Category": 1,
-            "Link": "https://www.burgerking.nl/menu/picker-f4efb0d8-c357-41ef-8242-bba4ff666857"
+            "Link": "https://www.burgerking.nl/menu/picker-f4efb0d8-c357-41ef-8242-bba4ff666857",
+            "Description": "Hot Veggie news… de nieuwe Chili Mayo Veggie. Een licht pittige burger met Flame Grilled veggie beef, veggie bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Als Veggie wel wat vuriger mag, dan is dit jouw burger."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/d3e69c413265637f598288f84ae718af1074029f-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Veggie Chili Mayo Double",
             "Category": 1,
-            "Link": "https://www.burgerking.nl/menu/picker-9b6ee3f1-163f-45fc-a3fa-3c08706ccaae"
+            "Link": "https://www.burgerking.nl/menu/picker-9b6ee3f1-163f-45fc-a3fa-3c08706ccaae",
+            "Description": "Hot Veggie news… de nieuwe Chili Mayo Veggie Double. Een licht pittige burger met dubbel Flame Grilled veggie beef, veggie bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Als Veggie wel wat vuriger mag, dan is dit jouw burger."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/4f88bfc327742be2c45335a32bac600f5d3f2bf8-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Chili Mayo",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-705f7a86-d7e5-4566-9e99-1ba59e1582cc"
+            "Link": "https://www.burgerking.nl/menu/picker-705f7a86-d7e5-4566-9e99-1ba59e1582cc",
+            "Description": "Waar rook is… is de nieuwe Chili Mayo. Een lekkere licht pittige burger met Flame Grilled beef, smokey bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Eet smakelijk!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/d9f09a515faaa969db3b09506addb53c2179aa23-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Chili Mayo Double",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-5bc0549a-f01b-4a16-b5ed-9d640c1db259"
+            "Link": "https://www.burgerking.nl/menu/picker-5bc0549a-f01b-4a16-b5ed-9d640c1db259",
+            "Description": "Waar rook is… is de nieuwe Chili Mayo Double. Een lekkere licht pittige burger met dubbel Flame Grilled beef, smokey bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Eet smakelijk!"
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC+ElEQVQ4jdXS3U/SYRQH8C+FuC4sctVSrFAp8wUhFAh+AgLiG6ClzXQNLSs1015Ip1kCoiTqEDRB04mmUZplL4y15rRunK3XC7dWW1utK7urbroofVp6YW79A52rc3bOPhfnHOC/izfuStwpisERAHPWA5iuScPjKhkeVUgRKKMQOK3EVGMe+rVc3CoU4vuLtn9DHf3JK0kz8Hg8H+8Hs/H1tmalF8mEV7gTnt2s5fq6PxWeYQmiAIQwgLtTGvj8ylWsZ5SPsgYOyLNzGO1daZB3F0B+HYceDJqHH06/mcIJupHEodsQTJsjhuUZRw8PhFgwNJYA5wBvLRhl3A7iN8L5phKEEHzvy2V8sCtZb1vVonl7ZvZrW/rBFxZV1jOrct8Te2powK2idQ7EIVAjwqhHgK5B/lrwilsKTAL1rkRaT69q8z2nQjFjp0xz7arJV46s2VdtGS+ft2tmZxzKUV+3pKTbK9o1/FBJH2lNBGCDd4JaC7Z2yWCcz4HNSwW1tlBi9yWq13dJ9vH+ZdWPR7XqxSmjammmQbPoNyu+DTYLp7udyUf7RiTbxifj0ICz6POJ/gJv8GGtk+PKw4Mw2ymGpVya3VGqeDp0Kuvn+CkdGStOX7xpSFscK1Ev+QzSpb5jgk9Oo8DkciXvIASwR6ege3jfKnh1hIczOjGKi8QoVscyanWSzJa81BnXYfXPq/ly0nlASjryxKQtV0DsmVzSlJ4wfzmHe6Kxgses2rUfNUIeHAPcVfDPEUpTVpaqiAhbX6eTJplyRNca0uI+1FLshXo5e8Gawf7Srmcv2LIiP19Uc8ar5XtTjwhigqq0WlTK4rH57x88xA9GqSIGEyf3L9dNBeJQky4h3UhFGM8Jt5gaZVvNHn24ZczANg8Wsuts2si886ooVoGQRSMAzmj2Qs+hr4IZYYCODljzxeg5X45qcSitSsoKrpawQurl4ZtcOhbTXxbNnKuLZz6o2LPRro3YUJ7EXJcbBXhPJuJ0LB25sUHL2G9gsApx07FZEQAAAABJRU5ErkJggg==",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/dc21bdcc4c82a82121b3a37774bfa2d73cc9e313-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Whopper®",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-578a88c8-4fd6-4398-a2bb-24cd0b616c49"
+            "Link": "https://www.burgerking.nl/menu/picker-578a88c8-4fd6-4398-a2bb-24cd0b616c49",
+            "Description": "De Whopper® heeft eigenlijk geen uitleg nodig. Zodra je tanden in het versgeroosterde sesambroodje zinken en je de unieke BBQ-smaak van de Flame-Grilled burger proeft, snap je waarom de Whopper® onze concurrenten al sinds 1957 tot waanzin drijft. Het is de absolute Koning onder de burgers. Door velen gekopieerd maar nog nooit verbeterd."
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADKklEQVQ4jbXMfUwMcADG8adapYVyubqrjvJW5yUqwzrO0ctK6l467nq5pHSm4locri69XC+OdHTO9d5JuS5rdmJDbcy4pqnZrAzpalqxjDFmbPUz/jDH5j/P39/nA/zv9Z2X4ZlBhtk+LQZ0WRjUZ+Nx/UE8MRzBiFkN4wbgTm4Ipga6/w0dKvTAlDYao/mBeKJmY6KBjw+daSD9CpDp0yBmCd40C/CqSYixlmQ8Nx7GI10yRppT/sYyCv1xuMoDlyu8cKzYA3E1FBCVBOQiF4SU/GyIJR3EwAXpSgOZHEZtwyJ09YrxqGcfTObIP0E/5LbQYK5ejYxiFwT1uGO6nO9o1Qq9rHox06pPWmfV7WKOaeN9X9XtmvexQ2Ff2+2JUyMiWG5J0H73DzDnZADkNQwgCZBUUh00tUGeD9p420ZMe/PHOzMN48ZM03hb6sWxFpH6ZX3CnuE67so+A9c5jFgwoYqC+SbPFswuZ0Kp8QenAMiq9J578vyqnVdao4yWq5LxgWv7PvV37v3S1yL+bLnAe3v/bNTg7XPs0q7Gbcy6e6kOIATtnTG24CldCioUy1GUTUF56Xo3ddFq6TlV8FB91WbSrOGQxrItpOloGGnP20Q65KHf2pQhvZfUrBiTMdnpZv9xGHXR4Pr8Bl7pqEF+LAMVbDo02THzleJAaZ7A96mMT5uV82kzJ3iMGTWXOXOBFzSj46/8qhWv6WmQsiJ7NZmO1u4qdMhjbcHrXQYkBVMR50fBwZj1c9JZvgnpLM+H+zdTZ2UsTyJn+xDF9mWkgLOCKDgB3wqi110vFbBZJnmu/fS9IVRLdtqCnIVAQrAXCLHDUh+K3f4w2lo5h6YvivB+oYpkTJZEMqaU4T6vj26lTx3hMEYLYlc1l4jCQhUH0u20ly0oTomwBXcHuCJvizdupFAAJKIymr5AG0+LaBL6HmoV+eU3ChmFej79RNUOqrIsipqnjl8cdyZxrZdUKADeE6hEG21Bgb8jxMuBd9VMhNOdINvgZK+Nd3e+IV00935uwPy7OUvdbmf5uRkl3m6aHe7zysJdnZVsF7sf34HCNUhegl/gd7YhOQmJwsSIAAAAAElFTkSuQmCC",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/45bd6af45bb37e39ef423ac743255ab2b23bb720-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Double Whopper®",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-609d7503-db54-4a0d-8945-9f86d4afdc9b"
+            "Link": "https://www.burgerking.nl/menu/picker-609d7503-db54-4a0d-8945-9f86d4afdc9b",
+            "Description": "De Double Whopper® is de Whopper® voor de mensen die met minder simpelweg geen genoegen nemen. De Double Whopper® biedt dezelfde smaaksensatie als de originele Whopper® maar geeft je daarbovenop de gelegenheid om extra lang te genieten van een dubbele hoeveelheid Flame-Grilled Beef."
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADDElEQVQ4jeXS6VPMcQDH8U+bPfOrbStLGU1SrjZpTIWmsGGyOiyxkxRltZa0Kesou90lmTUUTZLYajNNh3Qx6wiNhqJDhzGT0kXbajzQGEdfMzzyN3j/Aa9Hb+D/7XW6EENlUZgoDwJpAIaKRBitCMNotRzDNQoMVh3DuwopBm6GoztfjFalO+4fsEV7thBP5fb/Yk2ZgRjUrEd3/AJ0yOdh4mYQZhojkRC1A2/KZOgrP4yuUhnab0ShpeAgSD4HPRmeaD3hhi+V2/GtUohmmeAv9l4NVGos8UKzHG1ZPBQU2oG0aUGMtajP8TXp00bQ+8qkzC6tlNlRHMF4mi+ZEyreDlInArm1FaUZLmjWuIO3j4X+dBtgWgOQr0wYSl1RpSwGIcswcllCN1TJFkw1xntMNikDPt49vmeiRi4Zq4jYOVQUtOVtrrdLr0rAHU90ppHvQMtJJ+yPZaJHTQFTuYCx3QzjeQHQr6PjbYmAPqYTCQy14Upjw9Hqz01xz40NsV1Td2Tdk5Vhr0aKRS295zyvt55YIak96DQPuAxCkqCNsEfHaQoYSQNaLlqDtBEM5JoyXp7nCzrz3NL6b/j1DpYHzHzQiX8OXBfPdlwJmn1T6P+rJ2/9jydnV0zXHLGv10bbbquI57MZdnRk7luIHrUFMJYB6OL4CPQFOtUM7uPTvL36M/bP9KplPx6lOhN9kgMpkTqQC6GOpCjakehiFpFr4TbkahhvuOQQL+mOwnIhsARif1u0Kc2B0XRAvZUPQmbw8CiNXRdttbExxqG0IWbJyO0D840FYsqQJqQMp7wtPqk3cSdS/czHz/iYDSf7mekv7aIO6SKp+STZBDDl4Z6cAp4rAIkdBfJQiFUASnbzrfSKpaIHsU5ntSHW2Vk+rAz1Wnaaep1ZisqLrUr0YCUq3JgJcgEzJG4N2zFrM4eRswFYaToXV4I5AOkEcsXAYLYXCBlHsohDq5LxOTVSG94lf5b1ydUmvAQ3U8tTa2hclRcsUrxgEecKKtgOLC5AI8Tvz35ZAeYgZDF+A3l8ORyjtnBiAAAAAElFTkSuQmCC",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/ba3b71d1e52c1eaeb255b208d3b44e0402d34472-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "X-tra Long Chili Cheese",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-5f80a9cf-9773-4964-be3e-03bc8aac7df0"
+            "Link": "https://www.burgerking.nl/menu/picker-5f80a9cf-9773-4964-be3e-03bc8aac7df0",
+            "Description": "Voor wie het altijd nog nét wat pittiger mag, is er de X-tra Long Chili Cheese. Niet alleen geniet je dan van 100% Flame-Grilled beef, bovendien worden je smaakpapillen op de proef gesteld met een overheerlijke en pittige Chili Cheese Saus. Om het helemaal af te maken leggen we daar nog pikante Jalapeños bovenop. Zo voel je de Xtra Long Chili Cheese burger nog lekker lang op je tong branden."
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADOElEQVQ4jdXS2U+TaRQG8EfsjEgbKl1UaMv22Ygs1SoITkcGRTBAFUQpWBshFAUCpdVCpXZRmK/QflSIFKQiiwiEaGPUCzUY45q4Y9y3MWJkRFwvTSaRvJPQydzMXzDn6nlOcn5XB/hfzeMjOrx0KWHqJHjSVY7nnm143ZqFidZUTLanYfzAajxr+hVjTZkYGb0NUgFcpzf8FzIxFJ65EkEIAbnjxeRALgihcSYvEmOVErwyCDFuofC8fhkmqnOAK4DBNQe7mPmw6xdjVzMXtpY02NoS/GDVfgogACEX0Ob9xb8UAZf3ZbIeONI5T5lM/gvPZuHTdtW8R85tc0jFBHQeoNmshJuOg9EVjGq7CBod339b3UDhjUKOd0Nl6B3KwQ9mS8Bkjyb0Q79m7VSfquzTUZXpy2CR5WOPUv9Hx2rlVU+SpPVwDGutrQvkjAlGJxf6BjG0taF+0OikcPdUMj4PWmFgFrJGexXU65GCqklfydkpX/HLjz7NxJSv4P3bY+njNw/JL/W7qXrr76GJe+j5XLNbFCCZBXT4KORrOX5wdxOF4e4VCCwFzAzF6/as2D7at/7avRHV98fHVeT+cDa51qsg5zplZNC95C83HfPQum+RxURLYo0tgp+AEDADUdhUyvaDBgcFS1UMiotCUWeSCuy1S3a3mOVvehtTiI9JmT7pip8e2C+a9u7l//BYIojbsvRPhy2x0e6Ii65pR4C5MBsObyTy/gVpKXZmi6FYFobirEh2XYFoe4Na9JDeKiZNRWJysEREuit4xLuDTTxaHjmwI/Jte028aYROEe5RJ8FVHotzXako0vP84N7TchgywmbycoFgdocmLHloZ8QxrybqXfPGiC/u/PCvneoF31rygr9aM7mfzFnCW86tEZXH62RCdUYQdOlzcZ1Zh7wklh9Up3HQtkkC8iJ/pp+sjBZeNMmU543y+hPlCY5hbayzRx3ucqwPcdakcBu1Sfxy3ZqFcmdh+NxXGiAjKhCdpVLkiv557FwxUCxjg4zqIecA9alhAUOlCYE3bMnBT5oVIXfsq/inyqQCT848Qe2qIF6+NIizMuRnVjwAqwzgBUbjNzZmwL8B6uspkdtVU7sAAAAASUVORK5CYII=",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/b929ab28c8fa5ca5071f1b5568e42d41952ef8f5-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Big King® XXL",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-4c764d65-849c-42c6-823e-e3bbb91317e9"
+            "Link": "https://www.burgerking.nl/menu/picker-4c764d65-849c-42c6-823e-e3bbb91317e9",
+            "Description": "De Big King XXL is speciaal ontwikkeld om de liefhebbers van de originele Big King méér te kunnen bieden. Méér Flame-Grilled Beef. Méér Cheddar Cheese. Méér King Sauce. Méér... Big King!"
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC/ElEQVQ4jdXM6UvTcQDH8Y9HeG86j02nK1ugpK7UZZpz6ryW9nNOt0rNLFCxWFaGy8zEuSzDlelmVl6pqFReUVqzwzN90IrSpMPogBVEPQsSE/tGPqnRX9AH3vB59AL+u03U5kBCCEZrczBRvQsTFRQmj0dh+rgAU2UijJcn4V7FDugr92CkPAWn9iv+RX4sLq40Xy2AoSQIT6viYNRFgoyIEQigKcoWA7s5uFUUChCCYaUAN5RiDBQIMFQoQGtFvik4dU6NnhAmvjZsxNNiX3y+vBlLV0NAiByla5zM2+NdLXsz167q28e3PCuNMjP2JuBhowSDRXHQn4iHNlFkCjb5MfCtMAzPNCIMbliHGXWc2QuNyPa1Lsn7TYM0/I2OSpqvSZDOnYkVG1TRvLHSaPqQijIromJw52gM1JHRpuBlHxo+5G7BTFU8JgtC8EiTaPVcszX8da3k9LxONvjyfOrUjDrBYDgqnHxwcEtj3/6IbZ0HxA4FAUx0ZvLQfzrHFGwN5WIs2Q9zl3ZAx7AzH80J4xpK4tSPTyS8nVLG/NDnRywPpAf+7Elb/7NV4v+5QcKva0qL9CGVfTgYDHTLE5HM/gts4XMwIvXHCwDXQjl2Q6k86u5evv5OLm+hJ4NLrmzjLF8QuS9rItzIyXD2Qk2sz41uWaDg/aFNFoSM4352sCnYHMSGXu4LopLhpohr002to9pla0baMjyX2rJYpCXdjdQkuZKySAYpEzkvXZB7jOoPcZK/aF2syawfZivYpmDTBib6szkr/1N+gNlFKcu/TsrUNWx3f9WaxTY2Z7KM5yjXj6VChlEpdHxXlcIY6FE4UUatjQ257Y7pcrop2BXkgVq5M1RCR1xkMaGRODpppS6xLTs9FF27vJQdO1nFlyTOx9RR9GIF3/6wIsxBVpVC836isrb4ft0bnXk0U7Ce54ZcXzoWO+g44OmCI8F0c43Y2aojw8Oud89qh/7dnrT+LFdaPeVAy9tobS9k2lgxYW8OeGF5+LfwB/wFdfgUljWZBtwAAAAASUVORK5CYII=",
             "Name": "Double Bacon King",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-d490aece-90df-4b92-96f0-e4bb87e76e78"
+            "Link": "https://www.burgerking.nl/menu/picker-d490aece-90df-4b92-96f0-e4bb87e76e78",
+            "Description": "Bacon, kaas, ketchup en mayonaise op een flame-grilled beef burger. Die is met 2x beef ook dubbel zo lekker!"
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC2UlEQVQ4jdXP/VMLcADH8Y95aN1pW23VzG16cNFwoTt3esCsbsxQ7LRpVJfIRk5J7NIsE01TVlt6moTShTmNCXkopXN0Hpq6m1Pu/FJ36jonbeHr/OIu3fnd+w943b2B/7LeB2bYtFLcVG+AXZ+CFkMaWstUeFKVhWeNWvQSgraaw/9GLEohOjRClKaI0KKToVsnwPuzQozUSkBux4PcEmPQtAavj0ei/chq3NXtREO2Aq25G9BZnzsZc7lcuJoaCkuqGMAKfFTPgMMgxWC5GOSGDOTzIRCSA9Imx3CFBE69HMbtwJHEfXh8ag9sRslf4Pg4xAjG9Yxo/LAnYUTojxdFsZQ3RetpbwtFvJ7TMaHvzsTyHfrYoJe6GJ9HuetmxItk6FNT0W1UTd0dH/+GvAA2+ooEcOSHoTt/zUxHoTDEWSpJHqjcYhgo33zRWbL+8iudwNSWE6myZ0YtvpsnmlUQH4UmZQSISzkZdLtduHlgPnoKwtFXsAAd6iWsbl34vt5zq55/qBYP9xlFX7uOR43Zs5aNNqTz31zYzc+pzAjjPBTz0Lh9Ec5mh/0NutGq48O+l45GJmDLClh4/yivpv1E4JenJxcS28GQn7VJPHI+mU1KU1hjJansJnMGd0XPnWAKIQR1Gt5U8F5eCAixY8gqnXZFxV15Kd23uV7p476UxiJmOYuckjBJ4RYGKVZ4fTftYrRfO8rcNNpM9yDO+egyMieDExMTsO7ngpA4DFnCp1XtZC83yfws5Qn+/VXyOYPl2/wG9WLWkGat99CxGPon/Va67XomfdNIE9WTdHLwwkCbCpqkvtjBocCaPg/GOKZfWbyvpHob51BdIldTm8DWmjf65GtW0bTK8Nnq/RFeckMCLbi/gjqddATCmjkFdEMaSgMx0wEEITvai3Iuzptap2B71Su4jAY5h9EgY3oXi2cz0pZ60AScWZ5BFCoFmAvH5d+C5x/sF9AUJx1S8o86AAAAAElFTkSuQmCC",
             "Name": "Double Cheeseburger XXL",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-360ff779-5c1a-485d-8a63-bc323a9d123b"
+            "Link": "https://www.burgerking.nl/menu/picker-360ff779-5c1a-485d-8a63-bc323a9d123b",
+            "Description": "Eén Flame-Grilled Burger is geen burger”, moet de uitvinder van de Double Cheeseburger gedacht hebben. Kort daarna ontdekte hij de Double Cheeseburger voor Burger King®! Stel je voor: twee Flame-Grilled Burgers in plaats van één. Twee lagen heerlijke smeltende kaas in plaats van één. En dat alles aangevuld met augurk, ketchup en mosterd tussen een heerlijk sesambroodje."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACj0lEQVQ4jeXRW0/ScQDG8cfSmS0nzZqrnAfAAwhokCR4YtMwxJoK5QlzdDTJyhBKJOQPKKAimAeslabOzNS1uvOitWVWy2prrqzc2nLLw1xszq2LLvq1brrBd9DzAj77bg/wf++5R4MXpkIMzy5jYdKKV/ocvLmcivmrAiw5M+Hrk8F3twhrI8ewPq6Cb1iJtQeqzTGNhQNMAfgBaMxc2AyJwE/gUyUPS7U8EHsWyGg5yEIf6NoQUO4UkO96EEJQY4n3B33LCuguhaLXKwHyA6CrDsSingp4p5Nt+2DIDf9mkUZsuItopE8dhLeA9REfZPosCIC6XsbmlZ1aDsiRTARXhWDCIAqebRAx54zpxZ9bcnRfPTLqo1d+YXpAln5vTErTDPEDntSzMb/ShPOOWH/soi0RhfqdaLAkbLni5EZ02IXSh2aR46lRPPPSlLX42ipZmbKJvww6U0c8NwQKex9/F9XKw9/E5tsCf1DvTEaZKwo6NzfY6DggcVDiwe7G7MVbdZJfQyfTyP0SDhk4zvjdpaYvt2tZXU4nn21/fzgAhKCtP80fNLvTISfFaBxNC7SaMtLstRkjjtNZ661VEuIpEhFPdjxpF+8jdknkqu0o09Fcsz/6EAAdwtBxM8sfbO8ohIkbiw0yB/Op7PBmZarapeQ/6ykRLHsVKaud8sTVNhlz1ZbHnKHy2JVUgTDUJMtAk5SHVm2OP0jIGBwqIVqcpVBz2FtaCtiMLgXrRH8p6/pQGYsaqmBTAyp2k7ci6VxneXKSq1wY2F2dix71QURu9rBeGwd3TAyM9XRcq46CIT9qqzkvertLHhvWr2DQJlXxtMdVCbRxVdyOO0p6kCVvDwbTd2NCEYszsr3/oD9Lt+wP3D3BeAAAAABJRU5ErkJggg==",
             "Name": "Whopper Jr.®",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-0e3aafd0-e840-448a-a730-62e331bb0a7b"
+            "Link": "https://www.burgerking.nl/menu/picker-0e3aafd0-e840-448a-a730-62e331bb0a7b",
+            "Description": "De Whopper Jr.® mag dan wat kleiner van stuk zijn dan zijn grotere broer; in smaak doet hij er niet voor onder. De Whopper Jr.® is het perfecte antwoord op de kleine trek of een kleine maag. De Whopper Jr.® is daarnaast goed te combineren met salads, wraps of menu’s met King Shakes."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqElEQVQ4jdXQbSwUcBwH8K88hM6ce3BcHpKHzJn14ERyR0LOhJszmrtUinQ7L4TzdA3XebpzmbkIFbeymq20rpWJSTGLaZEldDalWTLljTf1b7zpxWm97rf9Xn4/3/1+wH87G7MDeCBPQXe+EMPNhRjQytCvkaJfK8PTq+fQW3X+38igxAnvVLEYVYowqhBgRsnHl3oe1ttPYEMfi7XGUCxUHsJEERdt+RIwuBUYuHz07+B0GQdTimCMlx4BabHEXHk0vjdEgHQJQYZOg/Qn4WdHBBaUfBCCrR2WJmBMaWmKLTQCz5IDMVbIBxkD5h574UPdMQujOoq6WB/j+lkb7bWoiXSfreJTXxcHmWceB340B+N2agKMOitTcLPtxVk3kOVWEEIwlselzNeEH17SCS4ttyVqlpriWo3VvIapEm7GUO4BtytCnhnH3w1PpAEgL7c5lywC4zmuUAMwFsD8fZH3wVlVoO5jU+TMfJtgdVLDWx/JD1jry/Hu68n2TLgjc7ORJ/ugXeIN0r0N+FZthUfC3RADGCmzZgznMaQjco/pYRXn16DanxhK3In+DJO0pDE+6cQMRXsWje3CdkVGCBuvyimmoKGACls4gJA90GfZ+96SOOjuX6CvGgqY5GE+g+izqKQhxY5UCylrVSL767Vp9H2bOb4P0JnNMgV1YjY4sNr6nyKW5aISOMo7JIw3hlza13uZ9G83kpkr2jjqSm08ZVKVaFdcGs/c/bwSuJYCKBL3moJZQV6oCKHAD0C6L2tnTbTT/i6x08WeTKay6xSr+mYSu6o+iq5UhNnKCsJsgnJCqdZ1qUB5zA6c9PMyBT2ovdDGOEDsCWjDAb2IanFX5EzpTHSmdYlc6N3p7nRNFJMm9rS2i6CZWUY7bqYo8LPZhQnBH+g36mP1EZyTvqQAAAAASUVORK5CYII=",
             "Name": "Double Cheeseburger",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-c880166c-bb9a-4954-b980-bfce52ab922b"
+            "Link": "https://www.burgerking.nl/menu/picker-c880166c-bb9a-4954-b980-bfce52ab922b",
+            "Description": "“Eén Flame-Grilled Burger is geen burger”, moet de uitvinder van de Double Cheeseburger gedacht hebben. Kort daarna ontdekte hij de Double Cheeseburger voor Burger King®! Stel je voor: twee Flame-Grilled Burgers in plaats van één. Twee lagen heerlijke smeltende kaas in plaats van één. En dat alles aangevuld met augurk, ketchup en mosterd tussen een heerlijk sesambroodje."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADDklEQVQ4jb3Sa0iTcRTH8Z8VtS5eHh+3RKdt3lInQ93KNNKW4d2WphE2spaVSiq2ml3czKnTqdPNR3PO1bRmKYVkKkEZZUFRpITRPSIKuokFSUjXf+iLYBW97Lw+5/PiywH+xzzoLcW5JBYYADf1WbilS8OoPhN3TdvxuLcCd8z5uN2YhYmxgX9Ddzvy8baMgze5wCN1MF7Vh2OqKx7kYRHIEzkmjUF4fJCHkWIeRADIlRhcL+T/Hau0BINYaZAabwwwPIDEgaiWg5yTgRAys0MsPHzewwHehoDpFKClXwQsADbkBKHzotAeTMgGGBXQpw6YAS7JIvBcK5n/ol7i8aJBEvxSHyN8po3wvX9I4Pwxc4lD89FAVF8IhyDAFWnZoWgfDLEHo+XArXrxDEZ6uvGUiXJ9aZYkvDueohm3re983R7f/axW1Dx2wFd2ScnlGY+FzNefCpt9WuOBjFJAczTAHiwxeIMM5cNPCTSZg1zOW0XSm7bo3vunk189PLPu04h19dQNQ+iHy1r/4S4df1+1yW9luXUp9aRTiDomHWXm31oWaDyBGGBN0cJZah0/tIUJbrOZReM95kjSYRQRRhtA2uoCSQcTNtlqEg9VmYRb9jf7uE3nrbMkQ2n0tAeLFFxAL0JGifssZSE3UlfiddZU7jPVovL/UbHb+5tSzv6uLvT63lC57KvBkHStrkmaqmoQs070DaLVvBO5FZQ9aNzljk18YGRYiBoZO8Qop62WfHrSVswh1kIOqZW5kvJMmlRt8/tyeFd0v6ogI2qoQ+tw7/0X1KvlaBsU2INXFSxEePEApMAic/IwZDormI3U6MkdruN9xdRE62bnidK1LhN717AfFcT6VOcmiP3OnFUgfTpXRiyUexbbg715QFaQJ+ZCjJpUFksT5xjamErn2mRsTc9WlxpG6qQrjaaqdy+nFDvF9Cq5aLHj9F15LI1UfxpS7h+vTaMxEdjAB7iYizwha06L1G1RdxaXOpLIpnUxLm6VEpouXkE554Q5zcsJd3SI4zigMo7CZsGiX+BPbVMeHgkvXbgAAAAASUVORK5CYII=",
             "Name": "Big King®",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/picker-fa6969d8-a9b9-42c5-a26d-3a5aed6ca018"
+            "Link": "https://www.burgerking.nl/menu/picker-fa6969d8-a9b9-42c5-a26d-3a5aed6ca018",
+            "Description": "De Big King maakt zijn royale titel meer dan waar. Tussen het versgeroosterde sesambroodje bevindt zich de Koninklijke kern van twee heerlijke stukken Flame-Grilled Beef, een dikke plak Cheddar Cheese, augurken, knapperige sla, uitjes en de onovertroffen King Sauce. Heerlijk!"
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACkElEQVQ4jeXS20uTAQAF8IPpSrIEianN1rxlEy8Zw/KS2cPU0kw35zSXc17TnLk5b7U00LHmp1vzMkWtrKYRUzNpI/ElJbEypUSaS0tNhSwiIYh6yC/0oZdF/0Dn+Zzf0wH+77wbuISvE60Yq4xCPgDL7WKY27Ixq8vAbGsG3nbkYtFQvtU18Vyw/lT9b3C+PRdzD5RY7q/CnIaPD/IgdBvH8ZwQ4ZkyHSaiFhsNTlhtS4ClyBVfSrdjxSj/OzZyV4uVW+WYMPaAJEl81gpA1nhDrxLbPFHwKaOKZMojpWgbklK3+o25DOhFFORwbbFsirQGL2clY6VLjJcXmCCqy/BKlWJnVsbvnSPiQxa0nMSlZi53WccL+9iZ7kz2VtusDnAw08hB4ikKqI5Ma7BUkID5zgKsmrT4Pqyye99yLsCsPFkxq2I/tGhiJszq6Kk3Dez+aQ1bNHwt0hlOADmah5oCf4T4+VuDhCQbFm0y5huzMK7N2zNZl1A8pQifeVHL+jFczfrVWxK4YZD4fdNLfB/rxF4cdRFj1+aujOuIvrpQa7BCyIWl3ANrMVQ05cV63i8+2jRU6bNuLKOTHZl0UpVEJ+t4dLIhjfGpOceTuCFlMqpYQAt/N5pLj1iD+YlsWOKA4J8GlJwOoxF8pvSmyG28S+iypOPsW2w5477QwfdavJPJnLpXGCjvKWG5TcsDMSILwNUcljXIOxaEfr4HyNcGiNmHt1dFefrWRtEE9dE0aVucu1TP9Zb0CZkXTYWHREOyYNagLNx+UhGBsSuhSD3uYw3Kz2dALYjA2uDmpWUo8qfanPWg7sj3c3FQnqA5aKJpDtdj3Xa2p+y37xIybLsFrqhPPwht2gHExsX8gX4D3YzyGimNS9gAAAAASUVORK5CYII=",
             "Name": "Cheeseburger",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/item-item_54314"
+            "Link": "https://www.burgerking.nl/menu/item-item_54314",
+            "Description": "De Cheeseburger van Burger King® is meer dan een lekkere Hamburger met een heerlijke plak gesmolten kaas erop. Onze Cheeseburger is de beste reden om de langere route naar huis te nemen. Of toch eens langs te fietsen bij dat minder populaire schoolvriendje. Een sappige Flame-Grilled Burger met een heerlijke laag smeltende kaas, gekruide augurken, ketchup en mosterd tussen zo’n heerlijk sesambroodje; daar doe je toch alles voor?!"
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACZ0lEQVQ4jWNgGAUXO+wYztUYMhxP5GM4VabDcK7BjOFCux3D+XYHhtPNtgzH660ZNgbzMByrMmW4sSgZf4CdLVNluFyrzXA4X43hdKEcw+1WQ4ZnkywZ3s2yYng11YzhXq8Jw7V2U4bzjcYMZ5qtGK50WDIcypbAbeD0YEmG4wUqDFvSlBk0e2sZ/s0wZ/i32Inh/1JHhu+zjRie9WgwPO3QZpgSxsGwIVWaYX++HMP6NEl8buxluNemwcDA4MKQLibIcLFan+V2p4XAnV5byZvd1pKXW035T9aYsDCorGP4P5eF4UylJsPZUmmGNCcTTKOcxFkZ/t9lY7jVbcawLVuL4Um3MvvDCZYGT2a6Zzyf59PyZKZb8/0JVlk32nRsLlTKCp5MZwPrO5glxJCK1UAxVoaGYHGG//87GExVBBiXZcmr7asxaD3V5Xjl3CSvl2d7XV6cbDG/ta9Mc8maVEW3CUFKnM1GzAxLY2QY0pxxuLDcXZzBW4+VIdVKirMlUCp4SozCidnJWv9mper/n5Gk+39GvMb/qVEqj7qDVCqqPLVE6+1lGLr8lHC4UJyVocZZhCHPgpsh20KCs8ldLKTPX3LP5CDZx71+Mk9bPSSeNrtLPGv2kj1d76WUU+KmKVzppsRQ76nIkOJghN3AThc+hjwdBoYCE17myT6CqksiJWPWxMuVLYuQrJ7pK1QzyUuwcoKvWEqHj5RBmYs8e5WnLEOLlzRDrJkKdgO7HSDsIF4GhkXB3MzbUqU5D+Ur8+5Ol+FfGS7AvyiIl29BKB/3FD9ullx9BoZsc36GNjc+hraqBrhBAPu8xnnOjM5oAAAAAElFTkSuQmCC",
             "Name": "Hamburger",
             "Category": 2,
-            "Link": "https://www.burgerking.nl/menu/item-item_48621"
+            "Link": "https://www.burgerking.nl/menu/item-item_48621",
+            "Description": "Eerst was er de burger. Toen kwam de King. De Hamburger van Burger King® is “the real thing”: een Flame-Grilled Burger met augurken, ketchup en mosterd tussen een heerlijk versgeroosterd sesambroodje."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/579aa7c1a26b3d9d168d69e4f6203d74d65a11fd-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Chili Mayo Chicken",
             "Category": 3,
-            "Link": "https://www.burgerking.nl/menu/picker-c6db23c4-f6f5-4579-8bda-5d223a5e25e6"
+            "Link": "https://www.burgerking.nl/menu/picker-c6db23c4-f6f5-4579-8bda-5d223a5e25e6",
+            "Description": "Chili Mayo Chicken is een hottie… Een licht pittige kipburger met smokey bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Eet smakelijk!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/bd0d20ec5fdea5f4919fa736e65284b11cc42247-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Long Chicken®",
             "Category": 3,
-            "Link": "https://www.burgerking.nl/menu/picker-c2966dfc-5e5e-4b42-846d-69b6ffbedc8a"
+            "Link": "https://www.burgerking.nl/menu/picker-c2966dfc-5e5e-4b42-846d-69b6ffbedc8a",
+            "Description": "Lang geleden kon je maar kort genieten van je Chicken Burger. Totdat we de Long Chicken® bedachten; een extra lang sesambroodje met een kruidig gepaneerde kippenborstfilet die je van de eerste tot de laatste hap -heel veel later- al het gekakel om je heen doet vergeten."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/6cfc93bea3f505507591f54e90511f184cbd9fe8-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Crunchy Chicken Deluxe",
             "Category": 3,
-            "Link": "https://www.burgerking.nl/menu/picker-4dc9217b-91d7-4d52-88d6-9680664ad4a8"
+            "Link": "https://www.burgerking.nl/menu/picker-4dc9217b-91d7-4d52-88d6-9680664ad4a8",
+            "Description": "We hebben kip en we hebben KIP! De Crunchy Chicken Deluxe behoort zeker tot die laatste categorie. Onze grootste Chicken Burger biedt je de verrassende sensatie van een gigantisch stuk kipfilet dat van buiten krokant gepaneerd en van binnen toch heerlijk mals is. Zo’n kip pik je toch even mee?"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/a094ab7c41581845ea167071404fbe13a0a40e3b-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Crispy Chicken",
             "Category": 3,
-            "Link": "https://www.burgerking.nl/menu/picker-ed2a7b66-b7a8-4b28-bbcc-4ad674cc590a"
+            "Link": "https://www.burgerking.nl/menu/picker-ed2a7b66-b7a8-4b28-bbcc-4ad674cc590a",
+            "Description": "Knapperig van buiten, zacht van binnen. De Crispy Chicken heeft alles wat je van een kipburger mag verwachten. Overheerlijke kip in een licht pittg krokant laagje, verse sla en tomatenschijfjes op een heerlijk broodje. Een onovertroffen meesterwerk."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/2d31dfd947a260f1515d0baad70b38f2a310c21c-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Chicken Nuggets",
             "Category": 3,
-            "Link": "https://www.burgerking.nl/menu/picker-9fcbf0a9-2e16-40da-b411-b23b343f49e7"
+            "Link": "https://www.burgerking.nl/menu/picker-9fcbf0a9-2e16-40da-b411-b23b343f49e7",
+            "Description": "In het Wilde Westen van Amerika noemden de goudzoekers de kleine goudklompjes “gold nuggets”. En dat zijn de Chicken Nuggets eigenlijk ook; eetbare goudklompjes. Goudgeel krokant van buiten met malse kipfilet van binnen. De Chicken Nuggets zijn verkrijgbaar in porties van zes of negen stuks en kunnen gegeten worden met drie kruidige dipsauzen: Sweet & Sour, Mild Curry en Barbecue."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/fde86a333083df96eb29839880889c6280e1c8cd-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Veggie Chili Mayo",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-f4efb0d8-c357-41ef-8242-bba4ff666857"
+            "Link": "https://www.burgerking.nl/menu/picker-f4efb0d8-c357-41ef-8242-bba4ff666857",
+            "Description": "Hot Veggie news… de nieuwe Chili Mayo Veggie. Een licht pittige burger met Flame Grilled veggie beef, veggie bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Als Veggie wel wat vuriger mag, dan is dit jouw burger."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/d3e69c413265637f598288f84ae718af1074029f-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Veggie Chili Mayo Double",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-9b6ee3f1-163f-45fc-a3fa-3c08706ccaae"
+            "Link": "https://www.burgerking.nl/menu/picker-9b6ee3f1-163f-45fc-a3fa-3c08706ccaae",
+            "Description": "Hot Veggie news… de nieuwe Chili Mayo Veggie Double. Een licht pittige burger met dubbel Flame Grilled veggie beef, veggie bacon en vooral onze vlammende Chili Mayo saus. Perfect gecombineerd met frisse smaak van sla, tomaat en cheddar. Als Veggie wel wat vuriger mag, dan is dit jouw burger."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/9c1f33cb8e487e39ce441365ac3ffd97d398aacb-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Veggie Whopper®",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-6573c5e9-c400-402d-9f00-22711cab1f7a"
+            "Link": "https://www.burgerking.nl/menu/picker-6573c5e9-c400-402d-9f00-22711cab1f7a",
+            "Description": "Dé Whopper® voor burgers die meer van planten houden. De Veggie* Whopper® bevat een plantaardige hamburger én plantaardige mayo. En natuurlijk Flame-grilled, zoals een Whopper® hoort te zijn!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/8cf2706ff8c3108cdcf34110fc7853f1c7728f7a-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Veggie Double Whopper®",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-aa8164e0-fdea-4cba-bb4f-7879b85435f2"
+            "Link": "https://www.burgerking.nl/menu/picker-aa8164e0-fdea-4cba-bb4f-7879b85435f2",
+            "Description": "Dé Double Whopper® voor burgers die meer van planten houden. De Veggie* Whopper® bevat een plantaardige hamburger én plantaardige mayo. En natuurlijk Flame-grilled, zoals een Whopper® hoort te zijn!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/e28f6d7272532ce324f3ef6ae7989700175e6917-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Veggie X-tra Long Chili Cheese",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-1eedbfe7-04a6-43fe-bc1a-05e5d419e0ba"
+            "Link": "https://www.burgerking.nl/menu/picker-1eedbfe7-04a6-43fe-bc1a-05e5d419e0ba",
+            "Description": "Speciaal voor de Veggie liefhebber die van pit houdt, is er de Veggie* X-tra Long Chili Cheese. Niet alleen geniet je dan van een plantaardige Flame-Grilled burger met heerlijke kaas, maar je smaakpapillen worden ook op de proef gesteld met een overheerlijke en pittige Chili Cheese Saus. Omdat we niet houden van weinig pit, leggen we daar vervolgens nog pikante jalapeño’s bovenop. Zo voel je de Veggie* X-tra Long Chili Cheese burger nog lekker lang op je tong. Durf jij je eraan te branden?"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/fa189e5e481d4d4dd6368699753d86570491a0b7-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Veggie Big King® XXL",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-1fe0f35c-0f97-462c-a472-f52616923dd8"
+            "Link": "https://www.burgerking.nl/menu/picker-1fe0f35c-0f97-462c-a472-f52616923dd8",
+            "Description": "De Veggie* Big King® XXL is speciaal voor Veggie liefhebbers die méér willen. Niet één, maar twéé plantaardige Flame-Grilled burgers, méér Cheese én méér King Sauce. Dat is zóveel meer, dat je na het proeven van de Veggie* Big King® nooit meer minder wil."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADL0lEQVQ4jWNgoBWYNm0aw////8G4s7OTob29naG7q4thwoQJDNamegzhIf4MDQ0NxBv4/8t/BtswR4aknBSGrgkrGZq7ZjA09sxg+J/NwHC0MZThdEMAw8W+JIabS2sYjv7/ynAtQ5vhyspm3Abu3naPISoxiiElM42hrrGbsbq2ia2hoZGtb/pExm43E4bJBtJg1//eEMDwar4fw70pfgzPJ1gxvJ3rxnCkPQabl/sZvv3/xLB63UrGjrZ6qeaGao/W5gaX/s52idWpPiyz7JWZfRlUGP8/DGb4vtQKbPjn7UUMP7anMvw6NYHhQrULqoH9k7oYVu3fzdA3YzpLV0edQ3dr9ZLp3XVrd0yrSLs1OdLtbn+Q06MZ4SZP5oTIPZjux7UnTRVs6MsVSQz/Tk9gmG0nhWrghNYyhqrORoaGqgKWqa0ljvM6yzav7y16emZy6rkHU6MPPJwavffh1Ih1T2aFd75YFOvxZm22IMjAT736DM9W5zMs8VRCGOavLMqwMsGEIY+JgWGKDQ/zpnwXi63lAUu3lPh+2Fvs+udktdefM/V+v881eP643uX34s7k8OV3psY5XGkPZ////yrDi2X5DDviDFANXBaiyFApwcAwx12MdXWMmsv6FK3tK5I0vs+NUPs3J1Tr34IonX/rMrT+7S8z/r+vxPbe9lzH0o3pduJvdy9gOFgXxLAyQh/VwAmRegx51voM0xKN2fsjdAKmx6kfn5ui+G9ClPz/Bk/5/7Xusv97w2X+L06X/78gUfXF9AidlslhRtLTU5wYJkXoMcwOM0Q1sDnMiKHQQ5NhUooZW32QiXNjoN7azmDVZx0BSm8aPZXf1Lkpv2nyVHw9IVTh5YxYpcOTotXi6v21+FZU6DJMiFZlqPVF83KJpwHD5cbpDI0h+ozlvpZSle5GIfXOGrXtrqqtE30122YG6bRN99dqmeKr3jA9XC15epy6elWAKvPpJVYMs1O1UGPYX1mEgYGBiWFptgPDz31hDGmO1oy17kac7c6aAlM9NAVXRxkJ7c00F9qTZiq4LExfYKKXFk+bmwZLpYs6Q/v8VIZ2P12GaltFsGEAEvNITxmNnLQAAAAASUVORK5CYII=",
             "Name": "Veggie Double Bacon King",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-2a02538e-42e1-4f15-b5cb-996f35b5c28b"
+            "Link": "https://www.burgerking.nl/menu/picker-2a02538e-42e1-4f15-b5cb-996f35b5c28b",
+            "Description": "Meer Veggie betekent in dit geval meer bacon. Alles op deze burger gaat keer twee. Dubbel zoveelkaas, dubbel zo veel burgers, dubbel zoveel saus en dubbel zo veel Veggie Bacon. Kan het voor jou nooitgek genoeg? Dan is de Veggie Double Bacon perfect voor jou."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADVklEQVQ4jdWS20/TZwCG33YZkBib7IKgo9IS6Oy6MSPx3MK0ah0Dq8JkTqhIbREpKOtYLbTQE6WHX1ssrbbxACG0dWiKoZQWVgXTDZnEmMV5sc0Bi3YwMjOju4It+Zaxf2C3e6/eqyfPxQP8L+bz+bB925bVb7fbYbPZ4HQ44Ha7Mf/LbyCEwOFw/HcgIQRH5dWoOPEJur03YKb86HL5ccQ9jR/8cixcPI5FvwRLvTIs+GvwtLsSc11iPFRswbyrEotBBRbHjFgcNwE9Hi5eLRHU1tWiRnYKOr2NptHq0/Q6fbrLoqdpJScwUcjE5M4d+KNdCqI7gNsxO77qk2Ck5yiiNilmu0z41mjGhEUBeC9xcdHrXLWMJxKwWgxZnUatyNypP+ByUm9GuzX0QXEeLSzdTX/QcYj+o2Y3nQlgbuo8JoMyJDxn8digwr12Fe7amoBL/o2gnBYMP3oCk9dHt1vbdzq7NP0+qiMS9+vrlwLnil4O1PNfhRr5L4KK4l+vnhIs+CVvz1+remOqvzYt6TtLn3er8V2PEfe9SsDdw4XH2oamy/fhsFWk+RxnRH3dzXfCbuXzGW/Dg2e9svjTgDz2U0ge+z4oG3/sk8RnqMrLEYu4PmQ+LIiZqjNnjedoc8Y2TBpO/gucMB3HM92nGKSK1oRtpeVDtsPJqLl0OWnY8+dDSrR8z12yMuIQrQxTopWoTrgc/mzXiz7l1pneFoHm1udlnN87tTTimcaX5yuBCxe4uNtahkcGBUatezNimn0H42385LiG99dtNYtMqPJJVMkhfTIWuSplk6CUTW7Ic8igYsNs4HRuS0DyXlbBGsBeDow2lACC17MRaRKCLO2CT/o+LaHa/87XHUWeb0ybniS1nIWxRk7q1kl2KvDR+tRAxfrUzeoNqdF69s9jzblDQ3XZJZQgPcNZvA6hqiwU/NNg44dZ0O7Nw/MvPgYhLoyo9jCmOoXCaSO/OaHc3HazhtfaX57XeqWMpe4Vs9TXj+W3Dst4LRFFwZEBGY+pKMx8LVKzDuE6DiQFTKChNBunt7LwMnRwNXLHsXdpAVlhekiyee0VMZfhErIZBj6Tod7OZHTwcxiufbkM7wd5a6378zPO7HiLzs/OAVWciWs8oGpjJv4GMt9hfSJdnWUAAAAASUVORK5CYII=",
             "Name": "Veggie Long Chicken Cheese Bacon",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-b9a56f87-fd64-4f36-9b6e-03a1c50b59ef"
+            "Link": "https://www.burgerking.nl/menu/picker-b9a56f87-fd64-4f36-9b6e-03a1c50b59ef",
+            "Description": "Hoe meer, hoe beter, dat is wat de Veggie Long Chicken Cheese Bacon belichaamt. De klassiekevariant krijgt niet alleen meer kaas, maar ook vier plakken Veggie bacon. De burger wordt verder bedektmet verse ijsbergsla en mayonaise."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC5klEQVQ4jdXP6UvTcQDH8Y8rdIY7dMvWwkEakRbdVKQdlmWtaWriPEYZHpmW0PJYNfPY5tp0bv7W3KbNptbMTARnJWaGs8MHlXbMAol6EIE9KIIyN4Nv9CRQoee9/4AXvIH/Jrvdjv6BQfT0OKGv00GlqILmkho2ixEuKhf3jAUYajqLJzcr4SYELlvJv0HHjS68evEGz0dfQa01QCqrgLjUCtLBA+lJAHEKMWnajRcVkRiW7UKf8ijaiyW4Lz+Exw75bMzj8UCjqYFCWQPb1VYolSo/hULBrlJpFuHAV5B3JSCkBMSVii9WESa06aDSAVnGKQypT6CXEs0Bp6dBUbVoajbB1mz11WqqNlcr5LkGtTy5vzZrjfvS3lXjNfsi3Np9oc+UMUEP5AcWJu5PxZvzdIxSBfN3p6d/gqrXwGQzwmymmAZtRbahWjZ8XVc0PGrNbPlgOdwyYTh4bUwZbXKVRhbclUat6bsY61udGIXO/O0gnvzZoNfrAVWnwIXm29Dp9f4WTVFSmzrnYb8hfWq8KeH7Wyr2x0hF1NTdsxu+tedFvLyaG1HaWLiOPygUoCN9NeqK180FvXCoEjEWDBhMjT4OWeSm7gtrbw4owqdcqnDSe2YlsR8TEEsmjxiPc6cMWbzOhsKQLa/vhNEIIWgtF8wH+8vCQEgffjjjfK7nL9vWlsd1Ok4GedtyuKQhjUvUIg7RJLGJXsL4ZcpmD986x4n/5mT5kYkVGKE4s8GZmRl0FwpASDI+2bb6XDm6dKMpNbjZLF7yvilt6aQ5JXhSK+R+Lt8T+LkshvVRe4TV2yVlxX/tpPuTx3w81THng6bkxZDwaejOE6A+gRN8OXGx6EoKv6g1I6TcLuZVNsQFVZXvZFbmbwo4f3o7I00nZoa9t9IXkEfL0S2dB3qRHM4EaWABCEXxDgatPiGQ3irhMRySEHZ7Gp/dnsoJ1AsD2Dnr/ZjRfF//UBqdBiyD+9ofwf8v9hteCzjkSW/a1gAAAABJRU5ErkJggg==",
             "Name": "Veggie Double Cheeseburger XXL",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-e13b6a2b-8c8a-4b03-8bcc-545191ec48dc"
+            "Link": "https://www.burgerking.nl/menu/picker-e13b6a2b-8c8a-4b03-8bcc-545191ec48dc",
+            "Description": "Eén plantaardige Flame-Grilled burger maakt nog geen burger, aldus de Veggie* Double Cheeseburger van BURGER KING®! Met twee plantaardige Flame-Grilled burgers in plaats van één, twee lagen heerlijke kaas en dat alles aangevuld met augurk, ketchup en mosterd tussen een heerlijk sesambroodje. Dat is super cheesy én dubbel zo lekker."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACtklEQVQ4jdXSWUgTcAAG8M/Uh8pwZEGHeMyjNtM88j5Tc82ZabPmsZLZZS4VmzpztnvuPj22Ydt0oVZmUC/hQyBJdEBEQYkGUlToEgzpOf9RD73Mh1774Hv98T18wH8ToVAIPp8PDocDkUgEqVQKhULxp2azGRaLBe3t7f8Ovl0CXDPlGHEZcU10H3LdKDhT3/G8LR3vhOlY1uZhzcHE2mg1VsdPY32Ki7VbNVi9y90czMlygZASTE270S0ahFJtC1TYHAELnHh8bksBUeeDTNaBfHCAKtgKmTkZ5Gs3CCFokcf7g1abESMeB9yekUCtWh6hlIvztCp54rS8ded8b0nYRzljzw9zNYU4eMF4BSgepILMXQIB0DEc4w/abHo4XANwOodDTDoZR6/qnbQrBcOz0ir+Yn9x15KlXPbezro652HmTtwpo/C9qQGPO+mYX5HgiibaH9SbeqC2XofB3BdqMgharbq2Bbeq8dsjcenCM3H+p5eKopUZZc7imDZ93GJLY6sdqbtkuiT8nqi6meYPSvQn0W5ioc9wYnu/rpprVJ16bRNX/HR2FG94m7LIbc4h4jkTszHAoy4bBLQBrTaVrn5zPACEQO/O8gel5nxUkVr0TmQGKcUF2ZrWggnNhcJ1XeNRYqnOJpbCeGLI2U/UReE+ZWWsRtWSEnkMQBdCYXIW+IMGUyXEidH4Ql5A0pQfpqo5wjPWpDwZ4qQt29kpPivroE/PjPUpGbFPZQz6WVlFxg4xMw+SsiToBCX+ICGz0HDTodbX4nxy8pb+ioTYATbtnLuWdsNbR5N5G+gyD5cusTckXLbWH04w1mcEDTaXYoiXifDNftgtiIM5Kgp9nVT0NEegtzwiUMqI3GZkRYe62TGUaW485WHjAcoUNy7EVUMNljP2Yix3N+6xo3GRue8v9AuuLA2BtS5k6wAAAABJRU5ErkJggg==",
             "Name": "Veggie Whopper Jr.®",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-76eab342-0850-4aee-8e77-cf81e8fe8b6d"
+            "Link": "https://www.burgerking.nl/menu/picker-76eab342-0850-4aee-8e77-cf81e8fe8b6d",
+            "Description": "Het groentje onder de Veggie burgers. De Veggie* Whopper Jr.®. Hij mag dan wat kleiner van stuk zijn dan zijn grote broer, in smaak doet hij absoluut niet onder. De Veggie* Whopper Jr.® is het antwoord op de kleine trek, maar met grote, iconische smaak."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADBUlEQVQ4jbXQW0zSARQG8K/M8IrcRDON1GblcmnLTElWai0Ub6Rpy5z+LRfJg5YK2ghUCC9oXLwE6MQ0yjJ0rZGV1SrTssnmqi3LtlZu3XxqPfSg/ls9+CA+9NJ5Oefpt+87wP8akUi0dEskEshkMsjl8r9bq9VCo9GAQqH8O2jp0WPI3oO+y90wt1ejLD8U2vIcPKk/gmlVIt7VcPFWwcVreTwcZ3kgO7iYVfPwVLJ3ZfC6rQ0jo73oH+jDi8dhsN+aBEmSaM9NwCgRBseJYDjEEXBUJMCSBgwWhWNUHA47sQEteZHOoE7fgi6LCX3W3tXq87UshVwWrqyt4Zjrzrg7KnasnaziekxWxbtPVPJc3khzMCKKwfPqGNw9HQGLeIszaDA0wdzdis7ODo/mxpq0BuXZto56qWJCly/80ibI+mzgE7PNCXkzSi5vUhrNHiqOXF0lSMVYZSyuFKxQWattgMZshL5V561rUhDGhsqJmxdKZt6ac8a/WoSOT+0p0+9U3NdT0siBJ6XbhLZTEV4jZVvxsHQbSHIFsEtXDuLjN+hNSldrQxHPrsoaGG/i/3jZnrTwypS4OK6OJu+IN5FDhRu+9xNBzdaSgBCAhCF9Mx7JaMhYvwx81kgHSbpgutdrzYNqVvy90nU37ldwft6rCV0cVgUvDErY86Zj1MVmIfWX5jBtuLWAnnhfSnf9oA9C30kG0gOWgVfEdIxfZGFYznQ35tGEHYdpT/uLafP2SjppK6OTPcd9SH2WN9mY6bVwPst7tO4QM019iEPJj94ORcY654Ty1EAUS+OgLeSskez131WfzDZeO856f7uMPmctYMwZhew5bTL9u0bg+aEx07NTJmDsPBAW5fKnNhEX5AzyORxMiakAjkIUwfIxCPz32Qr9zwwRLJU11099KTtQbTjoqzy3x1NSHufGL4n1YPzBLLlAZhjLGRwrAeqTtmKnbyGa9mOVKYNG6cn0p3an+DGuZgcybfkbmXo+m3Es1IO629PFLcoNqwACa8GEKARLP/wNOoUcWLmtx6YAAAAASUVORK5CYII=",
             "Name": "Veggie Double Cheeseburger",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-8d634e8f-8d13-4807-80b7-5536780946ff"
+            "Link": "https://www.burgerking.nl/menu/picker-8d634e8f-8d13-4807-80b7-5536780946ff",
+            "Description": "De Veggie Double Cheeseburger is dubbel zo, groot en dubbel zo lekker. Geniet van niet één, maar twee lagen heerlijk smeltende cheddarkaas en een sappige plantaardige stukje beef. De burger bestaat verder uit vers geroosterde sesambroodjes met augurk, ketchup en mosterd. De Veggie Double Cheeseburger is niet voor niets tot één van de populairste Veggie burgers bekroond."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADmElEQVQ4jX3T/U+UBQAH8C934QEDuYe7BOwglYAGigICAsGFoogBV8IhEPEioRQIO0BeH4474F6fe3m447jjQO8UQQ911wjXMiS3rBhlubVcTel1bBmRP2Rt/XA8TWs72lrfP+Cz777bF/gnYrEYBoMBFEWhq6sLJEmir68PWpUcjz4bx/K8CV+5ZaD3AQzD4GPbcfxvnOctmH3nKhxOO4aNvSBbizGrLMU9SxFWLdn41ZyOFU0ivu6NwafNEZirCEUogFsNgv8GL83YML/gxtT0Gaiphict3s4BfqQy8YhOBWPPwp+jGVijEsHICjB9YTess5mgL++F891cjLrTvdirZAAsVv0TZH7BBaVSFiSXk9H6oe7YBbVYcH8oOXJZmbL9nipt611FauCS7gUWc6MA8yvVmLy5H9duF+OtxQIvWHSKA7NZj/lPbmHC4WBrVbIU1UCvclzbZfvcXqf+2SGiH4zlWb/XpqnvdkdXLL0Zvu2jwfinrv9Q5+NyJsG9WIiLN/O84CsSPxhMnTBNGaExtXGMeslRs07y4bSl+eGdS3WrK+6yh8uTh3/7kk7+5XZ/1Afv9QharcM70tVTOwX0uXhf21wm9NMJXvDIGxzYnSJMXi5Dh/p5rm7kQP2oTfTFuYmXmWsX8pnrk9nMjGU3c8UUx8wOx/8+NRy3RFliNNKxqOxBe5S/1pWAgYnoDWADB2OGZLioLDT2hIdLB6J6DNr476x00rpZvcej6HluvVsSti4jn/UM00mMxS58oLMLzVLznoRG5Sb24+07jJH/BodqtqHpUAxajkfw+uvD2sytod+elz7D2NojPYq6cE9XGeEhq/ge3ek4xjBw8CedqnzQSNVu1YzYodW3QE3u8oKFEj+MVBKQF/AxXs0LNFcSVaM1wXccJ7mMS8JjrnTwGVM1wcgKgxmFOIwhy3beb6/MbZGfqgg5Vt6MptdKsKjJ2gCmseCs9sf7UuBGG9vXVBqUoSninqWPhnxzsZ63OtdKrFkrgtd6crhrrVnESmNW+NV6Yeyh1/PT/UqPKVCXuw8nhCwvKBIAnUI2Zip3wCKGT2d2AF92IDhvRMRvd1WFDk5XclX0S0GafiGhak4lyJN7Q4pPpDwtKI3fwir0BZpyonB4y4aXPAZjwcIfzhAABIoifFhk9ibOZDk/yF0jIEaP8HnaF4P51MEQ3umMzdzaXf4B5TFsdokAqE3cjPxAoGT739hfDcNfsB4UwHcAAAAASUVORK5CYII=",
             "Name": "Veggie Big King®",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-c1045e6a-61c1-4206-8567-310640b0a633"
+            "Link": "https://www.burgerking.nl/menu/picker-c1045e6a-61c1-4206-8567-310640b0a633",
+            "Description": "Speciaal voor onze royals die van Veggie burgers houden, is er de Veggie Big King®. Tussen het versgeroosterde sesambroodje bevindt zich de koninklijke kern van twee heerlijke plantaardige Flame-Grilled burgers, een dikke plak kaas, augurken, knapperige sla, uitjes en de onovertroffen King Sauce. Dat is pas écht Veggie voor Kings!"
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACrklEQVQ4jdXSS0jTARwH8G/mO1Mw8sFszbJ0oulhZZqoITbJgbb5yDR1I82FzW1uxnA2ndvUPZt7NHNT02WGr7QahV2URHp5sNCsg4oJFQRFdBP/4Q5dVoeO/eALv8Pv9+F3+AH/TXE4HBAE4Q6fz4dQKHRnpxeLxeDxeP8GDgzexPB4L4bvOeHoVkLVVA6TQoBZSz2WrVV4Z63E+54arI1cc8+7iiLw7Zn+7+DoRB8mXP0YnxzB+Fin+1K0vMGgw455DQfP2y/CpVFgWxeKTVsBVniR+Cr2w8dH0j+DRqMefYMOOIecu1RK+b4WmTRW3iaPsumV/nPtxT4zyhLfB+3s3Sgsdc931VDgZPuimuWNDVeWJ2gyadHTb4HdbgvUqlsZHW1NRrNKIp3VcvJXjcyCdTOLtWEtOvXJXhFOjMq8Nu8z8baLiXNnfREWQvUEu4yd0Hab0GUyBJt1rZe61ZJXIx3cDy878+dWDLkvlvT0hSVdzviiIYc93ZEVjlCAmL2MtiuJSE1I9AR1ajlgJSDrUPs4NJLMMXXN5FMV4+ec4uTWtIy2NdqQvD0iSPjhFMQ/tl6NYep5lL07e42sEIyp0zxBSXUZNhsCQQAwcAtinfx0m0tC/f6wkUz0cMhEZyGZUBeRCV0Z5Yu5+rDGIaRSrtMAS0kwzOIUT7A2PxtLBcB+YhlCRipJUxwn6GVHzd+ujFi3Mg+sWfKjV3tKYtYGONSFu3VJ0qEGWtSiNAkzomNoqaZ5gqXZKZgoPOB+Fx79uF8zPSZecYZUrqWThDZGtNDJOiIYq6TWu+qS2U9EJ2hTovSA18oMzDWnoTQz1hOU1lZBX56Bz1NcACLwEsO8LhwK8+cmRAS1nyYFGeikoBt5UXtunT8Y0F9J8b5THgltRRyMZUeRx8j9Df0CgdsHFKTgB/gAAAAASUVORK5CYII=",
             "Name": "Veggie Cheeseburger",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-816f29c6-d3bc-4126-b488-98e07b86202f"
+            "Link": "https://www.burgerking.nl/menu/picker-816f29c6-d3bc-4126-b488-98e07b86202f",
+            "Description": "De Veggie Cheeseburger van Burger King® is meer dan een lekkere Veggie burger met heerlijke kaas. Onze Veggie Cheeseburger is de beste reden om de langere route naar huis te nemen. Een sappige plantaardige Flame-Grilled burger, kaas, augurken, ketchup en mosterd tussen een heerlijk sesambroodje; dat kan je toch niet laten liggen."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAChklEQVQ4jeXO20uTARgG8AcUbaibB6zNbcbWAk+hmMvSojKbOtRoMzMzDHWzPGCFSlurObdv561vc+rM05S50qQDWV0UaQrFyFMUIREWlQfwKugy+AKDblx/QS888Nw8P17g/z2v14up6RlMTDyG00HCQOhgNZsw0N8HhJdiRCWFn8jFa3U2HkrD8UopxNJw9b9B3527WJhfxNzCWxitJJqVGlSqPaDMwIY7CxudQizbMvDBIMSCZi9mtVl4bzyA6XpmYNBssW3Gd3sUWh0R2qZpj1TrjGGQU/g5lIdffalYtSZgxZgMV+k2PJCxMdkUj/tyVmCwo8OG3sEuDAz2hlhM7UKiXXXBSlw/+cgq5y3bs1lLlmzWO0LI8KsygiG4B6o/GLOKRMy1sCHPydgKOh1mdPU50d3tpN+0tFWTBsXUkOXy0/nucuPaQKHue49I+5nMqlvSpxxcVHCj/LUhm7uXddGQBQJJuwGOYR8cpJXmMN/IdxMNY2O60i8zZvHavFO8PmfPXffrMj++aE30jst4IlLCp2nTgzBSwYH8WADQqNegOQmY/EFB03iWaaraf8V1PvlTb3UKdUuWSrmr9lDuygSqs1zw1SIRXFUWJMWqD3NgLuYH/tA31AXVcRYu5cRBlhZJ04hipfYTrOcdEu43WzFnhchnrmjzmKtaMfeNWsxvaBYlxihEfKgLeKg5kr4V9PR3wnSUhotsoOXQjiBXUcxu7xlWxXhlfKuvjHWtpyha5RRHKcii7TXGwri01tydocoCLnRiNs7tE2wFS6QSWHP+9DIe4CmJCHoi49Cmm3ZFPKvlMEZPRzKGJRF0zyl6mKs4LLgxFajPZEAvokOvbPsL/QbQROgmNAsbFwAAAABJRU5ErkJggg==",
             "Name": "Veggie Hamburger",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-32695511-0841-4055-a12e-3f5f747ac3d9"
+            "Link": "https://www.burgerking.nl/menu/picker-32695511-0841-4055-a12e-3f5f747ac3d9",
+            "Description": "De Veggie Hamburger van Burger King® is ‘the real thing’. Een plantaardige Flame-Grilled burger met augurken, ketchup en mosterd tussen een heerlijk versgeroosterd sesambroodje."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADL0lEQVQ4jdXSW0xTdxwH8C8aAwaFE9AIA4aUNVTJIssorEuMa1DclAVjosGAlwFymQtQYIV6bMspLT0t0AOcIqcClnKxWKAqFiqoXEaykMVkl0Ri9EVJ5BIYgYhEHpb/Emiy1736S75v33zyffgBH83RNL2V0tJSqNVqMAwDvV4PnU4HnudhtVqRlJT0/zCLxYLa2g4ILb1w9pdDz/bBxN1GEduNVz0VmOsqxPKdAix352GpJQNzhlRMA1ji0vDquhzvJuv+w/qnY9HQ0AizSYCVd2CVaGGoEfzq6q07+UbOjxDzVo+QBLyZAN52foV52wm8bD2JB3YpvrgJEM8CNEIgjN1B26CBZcCy1VDRStRzrH91tUaiY9RyE1sTZ2vh/O9dBIbq8vweNdtAhr4D6ckAab8MkngNZKML678U49n7H6AWfAsNOiO4ukqolBdgqTeEm/R0Wa2eHrQ3GdjnbnPqxohWuuqpTFpxF3+50lt4eNVZEP7OWRBANOfg+VsB8puAzEOAyhG2DfL2HHRqaLQSwCYoJLaG8lsdjarlUQfzetbLPF57euPBykjZ4PzD3Htzrgtd846z2uft8pNdbaIIpX33LvCAsXUfanqobbBn8Dh4zOD2r6Idd53p0rtt53vdtkvrk515//zZn705M3B580Vf1uZfrrQPf3R8s/57k2x2pD5+QGiOzNTaQ/bJ+vzR2ByFKocP9NyRgRACz1TyDk+bLPk+Jx24b5R+GGZlxGtOJI/NiWTclEzGzEfIWI2EjNBi4qIPzghsRIm+df+B9uZv0auWQGP3gVOmBAxkhGyhU/rPY5+o4ozDCvELT4l40auIXRxTihcnlXELkz9/tjBeJloYLY6ZHSoRuVyVohSzJTxgI55g4uoR3LAF+xZmxmD0JzGmK0R4WigOfJgb87Xr0qdFzqzIKveVSMabH808+TG6ajQvQjuc/UnVcE6kypsvOjt4NS4sk5JgTQu4s+NxBpTvGRMOoen7EEzkROH00WgoUkJ3qeRBe+ljgRSTEkjVntpLWdODKT5tD8WlBlBNp/YEc+mhu6+nh+2Unw7HbJEfso6JkJsRin8BpmRgduuZzIkAAAAASUVORK5CYII=",
             "Name": "Veggie* Long Chicken®",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-f4b6d855-df44-4946-91a4-510be23d731f"
+            "Link": "https://www.burgerking.nl/menu/picker-f4b6d855-df44-4946-91a4-510be23d731f",
+            "Description": "De Veggie** Long Chicken® is Kip Lekker Zonder Kip! De Veggie** Long Chicken® bevat een plantaardige burger én plantaardige mayo, knapperige sla op een extra lang sesamboordje. Precies zoals een Long Chicken® hoort te zijn, maar dan zonder kip."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADIElEQVQ4jbXSyU8TARgF8FeWiAWUxlK2LhbqioLY4AZVUGMQiChGNFAmKpVdSAVEtBRaBxjaDrQFClQrGCUNBDW4G6xVVAibuJtwgAsSj8RoXGIcox5wuXjx+wN+33vJA/7X6fV6kGQVzOYGUBQFqqYGtMGAlpYWGOvrQdM0bDbbv2EZGRnQaI1QHafAMAxq6XaQOgtocyuGRkegLC5BRaUWXl5e/wYqFAqoVCSKjpyAveM+1BXVbiq1dm6FhnRvazWCuR2I6VObMN20Fq8qF2Mgl4de+Ty8vlmI99YVuL73j0cEQcBiMcLYaIDJTHtQ1ZURVSfVKXqKjGpuMHo/uXIMjCMG7zpi8FItwbU9c2BYCgxlLsDL48F/J5TL5ThjM8F21gy9geQZKHUxXVPurNNVVdP1poXMpXDXd13b2DPtsvlTdWE+L1Ri9sNcnsuzUhGmjFLYt/4JpqXhjJVGa1szyKpyrlmnKrAaTjjO1pc1OhuJmDfNUtkEHZH+tGJ5/lBJSMGDw8LEezl83gfLajSl8DGQL8CaANff0XaTCrHnGRSUHHWz12ZKb+tTyP7q2HMj6hXW55qlPSPHJE8d2YLJO9mC8bs5QmtfrmDVlCaExTC7MapciHkC71ns8fAQ+pWBmGjPxd2rPa6P9HFhY9rIpj7lksnLB/gzznzhh758wderhD9z40Dge8ehILszM1A6WS52+b6K4UIRIOLOgr3dduj88GMy3VSZb6cyKdueLRtrIyI+n94j/nQrS/RxsDj4S28Wn+kh/N92p/I6uvbxInsOBrkyY+m4SARgfYDLLNhlolDkBxwB0KLYJaxJXEeWbQ4fL96y8jmdJLnQmyO6NFoqHnTm8Z90pnLvnU7iUE0JnAhLAsfNnOwPSyIHUb+CekUyikJ9YQjjQBO7fH6hVJwoDxWqk0NFOYXRgg2X9/uvv6ngJXfu4+y1xHttr93sGa6VsX3IKDZLGe4JUsbGxgDWLPi9alHUMjTsjEb6ArDSJJy5OyS+nGgh19sTcNkCsFJ5cI/zgLsU+BGFuRIPR14QugguhksXIcnvJ/YNm0grFglcuwQAAAAASUVORK5CYII=",
             "Name": "Veggie* Nuggets",
             "Category": 4,
-            "Link": "https://www.burgerking.nl/menu/picker-d7f3baa2-3c0c-48b7-a9e4-d7608eabaed8"
+            "Link": "https://www.burgerking.nl/menu/picker-d7f3baa2-3c0c-48b7-a9e4-d7608eabaed8",
+            "Description": "De Veggie** Nuggets zijn Kip Lekker Zonder Kip! Met een goudgele korst zoals je van onze Nuggets gewend bent, met een malse, plantaardige kipvariant van binnen. De Veggie** Nuggets zijn verkrijgbaar in porties van vier, zes, negen of twintig stuks. Extra lekker met één van onze plantaardige dipsauzen: Barbecue, Curry, Sweet & Sour en Ketchup!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/e39997f8bbed0a8db291b8cd6dca9390cee809bb-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Fries",
             "Category": 5,
-            "Link": "https://www.burgerking.nl/menu/picker-d6fca58f-49a6-4873-ae7a-a43d70c584d1"
+            "Link": "https://www.burgerking.nl/menu/picker-d6fca58f-49a6-4873-ae7a-a43d70c584d1",
+            "Description": "De King Fries van Burger King® is friet zoals friet moet zijn. Goudbruin, krokant, goed heet, precies goed gezouten en gewoon heel erg lekker. Je kunt de King Fries los bestellen of binnen een menu in Medium, Large of King Size."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/d3af9cfde3ed978604127b4297acfe24b55eab10-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Twister Fries",
             "Category": 5,
-            "Link": "https://www.burgerking.nl/menu/picker-dbc242b1-2a32-4c9b-9f61-6b5b6556323b"
+            "Link": "https://www.burgerking.nl/menu/picker-dbc242b1-2a32-4c9b-9f61-6b5b6556323b",
+            "Description": "Onze Twister Fries winden iedereen moeiteloos om de vinger. Ze zijn lekker krokant en toch veerkrachtig. Ronduit voortreffelijke friet en favoriet van vele fans. En daarom een smakelijke afwisseling op de rechte King Fries."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/1158dbfbaea1f988d4762b3c979da10143f45b20-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Loaded Cheese & Bacon Fries",
             "Category": 5,
-            "Link": "https://www.burgerking.nl/menu/item-item_54621"
+            "Link": "https://www.burgerking.nl/menu/item-item_54621",
+            "Description": "Zin in extra cheesy friet bij jouw burger? Probeer onze beroemde King Fries met stukjes bacon en romige kaassaus."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/b1518760cc640572ad06e644d01e574aa26a8f08-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Loaded Cheese & BBQ Fries",
             "Category": 5,
-            "Link": "https://www.burgerking.nl/menu/item-item_61396"
+            "Link": "https://www.burgerking.nl/menu/item-item_61396",
+            "Description": "Maak je Crazy Cheese BBQ helemaal compleet met de King Fries loaded met BBQsaus, creamy kaassaus en crispy onions."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/b9153a8715cb29626718b8c1b9e0415211da2fc5-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Chili Cheese Nuggets",
             "Category": 5,
-            "Link": "https://www.burgerking.nl/menu/picker-297a1fa2-6eff-4126-96e9-f7e041455dd4"
+            "Link": "https://www.burgerking.nl/menu/picker-297a1fa2-6eff-4126-96e9-f7e041455dd4",
+            "Description": "Eet ze, als je durft! De Chili Cheese Nuggets van Burger King® zijn krokante nuggets met zeer pittige gesmolten kaas binnenin. De toevoeging van groene chili pepers maken de Chili Chees Nuggets dé snack voor pittige types."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/2d31dfd947a260f1515d0baad70b38f2a310c21c-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Chicken Nuggets",
             "Category": 5,
-            "Link": "https://www.burgerking.nl/menu/picker-9fcbf0a9-2e16-40da-b411-b23b343f49e7"
+            "Link": "https://www.burgerking.nl/menu/picker-9fcbf0a9-2e16-40da-b411-b23b343f49e7",
+            "Description": "In het Wilde Westen van Amerika noemden de goudzoekers de kleine goudklompjes “gold nuggets”. En dat zijn de Chicken Nuggets eigenlijk ook; eetbare goudklompjes. Goudgeel krokant van buiten met malse kipfilet van binnen. De Chicken Nuggets zijn verkrijgbaar in porties van zes of negen stuks en kunnen gegeten worden met drie kruidige dipsauzen: Sweet & Sour, Mild Curry en Barbecue."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADIElEQVQ4jbXSyU8TARgF8FeWiAWUxlK2LhbqioLY4AZVUGMQiChGNFAmKpVdSAVEtBRaBxjaDrQFClQrGCUNBDW4G6xVVAibuJtwgAsSj8RoXGIcox5wuXjx+wN+33vJA/7X6fV6kGQVzOYGUBQFqqYGtMGAlpYWGOvrQdM0bDbbv2EZGRnQaI1QHafAMAxq6XaQOgtocyuGRkegLC5BRaUWXl5e/wYqFAqoVCSKjpyAveM+1BXVbiq1dm6FhnRvazWCuR2I6VObMN20Fq8qF2Mgl4de+Ty8vlmI99YVuL73j0cEQcBiMcLYaIDJTHtQ1ZURVSfVKXqKjGpuMHo/uXIMjCMG7zpi8FItwbU9c2BYCgxlLsDL48F/J5TL5ThjM8F21gy9geQZKHUxXVPurNNVVdP1poXMpXDXd13b2DPtsvlTdWE+L1Ri9sNcnsuzUhGmjFLYt/4JpqXhjJVGa1szyKpyrlmnKrAaTjjO1pc1OhuJmDfNUtkEHZH+tGJ5/lBJSMGDw8LEezl83gfLajSl8DGQL8CaANff0XaTCrHnGRSUHHWz12ZKb+tTyP7q2HMj6hXW55qlPSPHJE8d2YLJO9mC8bs5QmtfrmDVlCaExTC7MapciHkC71ns8fAQ+pWBmGjPxd2rPa6P9HFhY9rIpj7lksnLB/gzznzhh758wderhD9z40Dge8ehILszM1A6WS52+b6K4UIRIOLOgr3dduj88GMy3VSZb6cyKdueLRtrIyI+n94j/nQrS/RxsDj4S28Wn+kh/N92p/I6uvbxInsOBrkyY+m4SARgfYDLLNhlolDkBxwB0KLYJaxJXEeWbQ4fL96y8jmdJLnQmyO6NFoqHnTm8Z90pnLvnU7iUE0JnAhLAsfNnOwPSyIHUb+CekUyikJ9YQjjQBO7fH6hVJwoDxWqk0NFOYXRgg2X9/uvv6ngJXfu4+y1xHttr93sGa6VsX3IKDZLGe4JUsbGxgDWLPi9alHUMjTsjEb6ArDSJJy5OyS+nGgh19sTcNkCsFJ5cI/zgLsU+BGFuRIPR14QugguhksXIcnvJ/YNm0grFglcuwQAAAAASUVORK5CYII=",
             "Name": "Veggie* Nuggets",
             "Category": 5,
-            "Link": "https://www.burgerking.nl/menu/picker-d7f3baa2-3c0c-48b7-a9e4-d7608eabaed8"
+            "Link": "https://www.burgerking.nl/menu/picker-d7f3baa2-3c0c-48b7-a9e4-d7608eabaed8",
+            "Description": "De Veggie** Nuggets zijn Kip Lekker Zonder Kip! Met een goudgele korst zoals je van onze Nuggets gewend bent, met een malse, plantaardige kipvariant van binnen. De Veggie** Nuggets zijn verkrijgbaar in porties van vier, zes, negen of twintig stuks. Extra lekker met één van onze plantaardige dipsauzen: Barbecue, Curry, Sweet & Sour en Ketchup!"
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACP0lEQVQ4jWNgGAU0A98X64Px+6lKDB+mqzB8mqXO8GqiDsODJnWGx20aDI9a1MGYIHjRo8jwaZEVw7dVjgxvZhgyvJ9jwvBuljHD65nGDK/nWjC8mmPB8HiSAcO1BiWGq7XyDHe7tLAbdLeel+HdbB2G/5v1GV71izM8naDOcKddneH//3iG/5utGb4uMWb4vtyM4ddqC4avi4wY3k1TZ7jXqsDwYrIWwxxnDkwDr5SxMnyZo8Xw/7Ilw90+VYZnE3UYrjRpMvw/6MT0e7Ul+/u5RhzvF5hzflluw/FxgSnLkx4Vhi8LDBi+LTVn2OyPxYVXytgYfi7WZZBkYGD4/6qI4c0UNeYXk3SEHnVrmzzo1A55OtEg+skkg9ibbRphp0rl9LYnCbNvjeVjOJQjybApEIuB1ys5GN7M0mf4v9uG4cVEJdZHvWpaD3p1sm636ay4Vqdx7larztUrdeo3jhfIndiVLF66OpRfYmUIL8O2RDGG1UG8mAZeq2BneDhRh+HDImOGB93y/LfalMNvtGqtu9qkc+NcpcaTk8UqT/akyDzcHidxeVO0aMfKYAHla/N9GfblqjEs9+PGNPBqOTvDmToVhgutGgyXGqS5TlfImp8oVUw7XqZSdihfsXJ9tETZXHfB/KX+wmmrQ0Xclvrzi4SBguf/KYb5HpyYBl4sYWfod+ZkqLPiYFgYyssw3YODZboLG+cCH06eRf7cfO0W7LyFaqzc9UYcXN22XGwtFpyMIH3/98gzVBsgYhkAXZrS54FYGPoAAAAASUVORK5CYII=",
             "Name": "Onion Rings",
             "Category": 5,
-            "Link": "https://www.burgerking.nl/menu/picker-35519304-2003-4816-b633-8a6a28cfbc69"
+            "Link": "https://www.burgerking.nl/menu/picker-35519304-2003-4816-b633-8a6a28cfbc69",
+            "Description": "Niemand denkt bij een snack aan een ui. Iedereen denkt daar heel anders over als ze onze unieke Onion Rings geproefd hebben! Heerlijk als losse snack of als aanvulling op een menu."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/42b186afd8b155b4dae3304459c2dfc7c653ec3f-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Jr.® Menu with Chicken Nuggets",
             "Category": 6,
-            "Link": "https://www.burgerking.nl/menu/picker-a3e96199-7da7-4648-b582-1e60d0e08121"
+            "Link": "https://www.burgerking.nl/menu/picker-a3e96199-7da7-4648-b582-1e60d0e08121",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/36287a94082fb4f156da5b7d58bd141ee995bf16-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Jr.® Menu with Hamburger",
             "Category": 6,
-            "Link": "https://www.burgerking.nl/menu/picker-f439e592-7e61-4541-8b99-cb02052d8384"
+            "Link": "https://www.burgerking.nl/menu/picker-f439e592-7e61-4541-8b99-cb02052d8384",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/a8d1e4a841164350815cd401b5ca32eba27cf922-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Jr.® Menu with Cheeseburger",
             "Category": 6,
-            "Link": "https://www.burgerking.nl/menu/picker-62bc783d-8661-43a5-b051-537c95aa79e1"
+            "Link": "https://www.burgerking.nl/menu/picker-62bc783d-8661-43a5-b051-537c95aa79e1",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/831cdcfafd8f2e7240c7006cfe5581383c69d020-590x393.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Fusion Oreo®",
             "Category": 7,
-            "Link": "https://www.burgerking.nl/menu/item-item_48660"
+            "Link": "https://www.burgerking.nl/menu/item-item_48660",
+            "Description": "De King Fusion zijn de lekkerste ijsmixen die er te krijgen zijn. Of je nu van OREO® houdt of van Smarties® of TWIX®; de lekkerste ingrediënten worden altijd vers voor je door het roomijs gemixt. Choose & Fuse!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/5f77156ec678c63e25cd4e34944347e1ed45eb02-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Fusion Twix®",
             "Category": 7,
-            "Link": "https://www.burgerking.nl/menu/item-item_13688"
+            "Link": "https://www.burgerking.nl/menu/item-item_13688",
+            "Description": "De King Fusion zijn de lekkerste ijsmixen die er te krijgen zijn. Of je nu van OREO® houdt of van Smarties® of TWIX®; de lekkerste ingrediënten worden altijd vers voor je door het roomijs gemixt. Choose & Fuse!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/03aa99e00791aadc4d94a03f8a1c3cd39e1396d4-590x393.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Fusion Smarties®",
             "Category": 7,
-            "Link": "https://www.burgerking.nl/menu/item-item_55723"
+            "Link": "https://www.burgerking.nl/menu/item-item_55723",
+            "Description": "De King Fusion zijn de lekkerste ijsmixen die er te krijgen zijn. Of je nu van OREO® houdt of van Smarties® of TWIX®; de lekkerste ingrediënten worden altijd vers voor je door het roomijs gemixt. Choose & Fuse!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/0f0a2dd89302420c625c8967d6c0347bdff8cb03-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Sundae Caramel",
             "Category": 7,
-            "Link": "https://www.burgerking.nl/menu/item-item_13291"
+            "Link": "https://www.burgerking.nl/menu/item-item_13291",
+            "Description": "Lekker verfrissend en niet te versmaden. King Sundae Caramel is vers softijs overgoten met caramel saus. Of je het nu als toetje eet, vooraf of zomaar: een King Sundae smaakt altijd."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/9bb5f8eefa460a8845d501082d5865d75cd3e0e0-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Sundae Chocolate",
             "Category": 7,
-            "Link": "https://www.burgerking.nl/menu/item-item_13289"
+            "Link": "https://www.burgerking.nl/menu/item-item_13289",
+            "Description": "Smulpapen en lekkerbekken opgelet. Deze King Sundae Chocolate heeft niet alleen smakelijk vers softijs, maar ook nog eens een chocoladesaus met een volle cacao smaak. Probeer daar maar eens af te blijven."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/181a4f9801fb8e658a35ffa0baf33c2b9af00185-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Hot Brownie met IJs",
             "Category": 7,
-            "Link": "https://www.burgerking.nl/menu/item-item_54344"
+            "Link": "https://www.burgerking.nl/menu/item-item_54344",
+            "Description": "De brownie is een van de allerbeste uitvindingen uit Amerika. Zeker als je hem op de perfecte temperatuur serveert. Zet je tanden in zo’n heerlijke zoete warme brownie en wacht tot de halfgesmolten chocolade langzaam over je tong rolt. Dat is smullen zoals smullen is bedoeld. Je kunt hem ook bestellen met ijs. Als je hier niet warm of koud van wordt, weten we het echt niet meer."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACJ0lEQVQ4je3O7U8SAQDH8Z+4CL044A7u4ODghEO9VDgjDrnj4RCRpqUrmrO2Wsut2cPyYallJjNL8cqApoWNtfWitl73R/SmP6R3rVVb61XvehO+62XfP+CzL/C/f9r+mIQdCTgFoJrhYAwAjQKPZimG5vkEDiZlGIoV24oDO5obl+3ARpQ4HHyS4lBRvaikfKhlORiqGysyi1K3H5NSAOtpAbWCgOowj02NhZHxwshyh4P1LI9dzYu67kejEMCe7kMlwWE2EsLZwT68GOvFuwkRr4s8tlQn6hkW+zlPa2x72I96LoAbAA6mR1BNMeZdhWSqKtW9XxAiL8d7B/ZGhXA1zXBGkuosxymsRazYUhwQXe1/g7e146hoLJaTPMqar+1Z2i0+VV23toaY5qO0/70xIr41dP7VZtK1+iBOx+8qLvNc1I57J6nW4EJKQjlBY04msBijTI9VJv1wiPmwFGO/3Rz0/LqjeH8uxdkf1yOOTzP9tkszspO4INlwtd8O0dkC3Mh1YUG2YkMJY1H1mZZjdGxept9ckejPJZH6Pt3t+DoVJr+MdxEfC0LnxXyIJPIhEqPBY60Py3oQtdNRrCS4tvV8T/t8zOWekWznSkGyUuTJxoiXeJ7lLDtJz9E5hbOcGPRazJkgiSFfR2twLRvC/WwYq6kA1vSwaT0nHrkWZcgJwcbrHiKUcFr4pNvCFrtI52SPo+NMj71tNu7BVB8N0Wn6A/0GOj5426cPPsIAAAAASUVORK5CYII=",
             "Name": "Hot Brownie",
             "Category": 7,
-            "Link": "https://www.burgerking.nl/menu/item-item_54342"
+            "Link": "https://www.burgerking.nl/menu/item-item_54342",
+            "Description": "De brownie is een van de allerbeste uitvindingen uit Amerika. Zeker als je hem op de perfecte temperatuur serveert. Zet je tanden in zo’n heerlijke zoete warme brownie en wacht tot de halfgesmolten chocolade langzaam over je tong rolt. Dat is smullen zoals smullen is bedoeld. Je kunt hem ook bestellen met ijs. Als je hier niet warm of koud van wordt, weten we het echt niet meer."
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACp0lEQVQ4jdXQW0hTARgH8P+UkiCTSvOhfMlpdFFJyikqhpaotECkMkt6CLGLmC9lecs0Z2LDJo6FShp5SUlxmujQ1NXmJRU33UXPtrOzc7aZpsZKCLqdcPRQadBr39P/5fvx/z7gvx67lcHy0hJYlnVmG0PDSltA6DQYV74CScz9O7bq+ACzQQfGbMCC3QrGqAU1q4Jlbga0QY95sw4LtBHaiZG/I5LEAwC+QMA/Dnl1rrOZcVwGzXC3M89TBBwr75xZPTIElXIANcVZoEliY1AvCcfL274YKwuGpT4CK/1pYPvcwbIqLFiprXaa3GOjDDtsxJTLKsvCbDKhR/0dI7L2jUG1KAyym1woBcEwiIPg6DgBVpMBxmxyZ8i5WNqoz6cI7TmjdsaL/TQCxxKDCcVrZ2Oul+vvGCWJQ1dWMMpSEvH8egT6so+4KW7t9VaJYvYZFc2JFv1EE6V5QxLjgx0z8s5Y9aB0iwsAeYMQjGl2PWh6GIWBvACIkvzRnhnAGRMc9lMLA6/N1sRUkz2Fg/Ro4yIpr/2mahPYFU+LRPJW8UEdteyy1m64t209SEtiMVTAdeaWNC5nSngoRFcV+MxYF/mekaZ+ZbousdO18Wz33cjPTXfOyJsrcvnS1gY3zTyLjrrK9aDmQTQGCr1hb4yEPCeaM1nO9Z+u9C831IcQ9s74ZbIpYlGWt9smTPHW5J8PfSTIuhguKcvZbHn7EeJ7N8D1WnvALzNZGg1lVDLGSo9CW5XIUZb4bR8t94vSPwnLsr5IKJ2u45U8vrIrPyN6W1pSqA8vOS7Mo+jqKc7abmYqH76ef4D9RQloPXsB0mw+FEI+eot5rrL7PLepRr4H0ZnkNSSO9KxI99uZcdLH/dj+Ta5rv7ucnonTMUFoqSyA78+TfwDCQ05TGmHOmAAAAABJRU5ErkJggg==",
             "Name": "Hot Blondie met IJs",
             "Category": 7,
-            "Link": "https://www.burgerking.nl/menu/item-item_54343"
+            "Link": "https://www.burgerking.nl/menu/item-item_54343",
+            "Description": "Om van te smullen. Een heerlijk warme, blanke brownie, die van binnen gevuld is met witte chocolade. Extra genieten van deze brownie? Dan doe je er toch gewoon een toefje ijs bij?"
         },
         {
             "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACQ0lEQVQ4je3Q30tTcQAF8LNMZ2nJ0KuID1vbnRcmU8vc1mStqKBlIyXbk1muMPsBXUsN8yezGc6ZtrRyNivBwiJSNJrNVuZKZ6gtl0rKamJSgeJD0OM3fAucbz12/oAP5xzgf/5pbmZKARDUHNKiXcdH93EeXp0Lw3BxONyXNsF1fgOceaHo00dgUAUM5AJ9p5i1QW+TAo5CPoaMifhyV42l3kyQ8bMgX0tB5opAJvRY7tFgqjkNr8tleFkowWitfG1wvEGO5xe3wFWdhJnWFfAIiIcF8ZWC/DCALBSBvDkM/52dGKxMxXBpAj417ABNBa3G5lrS0cOmoC47C09YFV5ckHJdJfHRYwaB0FsrYKbMQvGkSSjwGEXR7ipJ6LMSJYYaC/D+Smpg0G/ZBWeZFE06Bk9ZKcdtTKI99clnppu2Nvus29r8tmSr75ak8aNJxL4tFyXbC5OC7x9j4CiOB02tWw1+a9mPgUoxQgA8zqc54/UJssnmxM5Zm2xx/qHq93yH7Jf3Or1sL45xteVG6SoOxm4sSIvE7ezowA0nr+2FsyoGPzvVGLi8mzNmppkJC2OevZc6s9C1b8nXIV/sK4v9XpcV1q9XcLPk/JBwihOEnO3cwOBY7R6MqE5j1CSH90YG551RzBsxi9XT7Up2vvfA1Q82WY01j6o8mRaqVwrWJ8RFcFbGgIlEYLDfkI5HOUdhr8jEoFkLe7U8yGFScD0PtBGfuzMop0VB1Z0QRuVr4jZrUqKC+TyAkC6IqGCI/vrwD4cQzclBUlaVAAAAAElFTkSuQmCC",
             "Name": "Hot Blondie",
             "Category": 7,
-            "Link": "https://www.burgerking.nl/menu/item-item_54341"
+            "Link": "https://www.burgerking.nl/menu/item-item_54341",
+            "Description": "Om van te smullen. Een heerlijk warme, blanke brownie, die van binnen gevuld is met witte chocolade. Extra genieten van deze brownie? Dan doe je er toch gewoon een toefje ijs bij?"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/e29c32f9cb80bdb6a0558c9c6276d0b0d700d211-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Shake® Strawberry",
             "Category": 8,
-            "Link": "https://www.burgerking.nl/menu/picker-9b4668d2-501e-4a14-a2c4-1c95a2fabae4"
+            "Link": "https://www.burgerking.nl/menu/picker-9b4668d2-501e-4a14-a2c4-1c95a2fabae4",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/6d6aca5ad220125762fb3850b508a2d5ffead505-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Shake® Banana",
             "Category": 8,
-            "Link": "https://www.burgerking.nl/menu/picker-7caa5b46-26ae-4ed3-a770-772bcbf5dea5"
+            "Link": "https://www.burgerking.nl/menu/picker-7caa5b46-26ae-4ed3-a770-772bcbf5dea5",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/d5bd2ac4915ae973ac9e2ceff02b8f6193990c84-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Shake® Chocolate",
             "Category": 8,
-            "Link": "https://www.burgerking.nl/menu/picker-92da534e-57ac-4cfe-a27e-18ee34987b88"
+            "Link": "https://www.burgerking.nl/menu/picker-92da534e-57ac-4cfe-a27e-18ee34987b88",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/002a63d23b07e1e1b552a28fe7ecbe34e346c60f-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Shake® Vanilla",
             "Category": 8,
-            "Link": "https://www.burgerking.nl/menu/picker-7828dbf9-784a-49f1-9375-01ed335db924"
+            "Link": "https://www.burgerking.nl/menu/picker-7828dbf9-784a-49f1-9375-01ed335db924",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/d46c5bc888ebe29763576293c1cc239905ba2af6-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Shake® Oreo®",
             "Category": 8,
-            "Link": "https://www.burgerking.nl/menu/item-item_22500"
+            "Link": "https://www.burgerking.nl/menu/item-item_22500",
+            "Description": "Een Milkshake als geen ander; een echte Milkshake met pure vanillesmaak samen met kleine stukjes OREO®. Bijna te dik om door je rietje te zuigen, deze moet je wel proeven!"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/ec3d26c2d65937265cb79686553ad7c204eba9a8-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King Shake® Oreo® Chocolate",
             "Category": 8,
-            "Link": "https://www.burgerking.nl/menu/item-item_35387"
+            "Link": "https://www.burgerking.nl/menu/item-item_35387",
+            "Description": "En we hebben een nieuwe versie van onze Oreo® Shake. Heerlijke milkshake met chocola, ons heerlijke ijs en geweldige stukjes Oreo®."
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACdUlEQVQ4jY3QXUhTARjG8UeiIIkMI0rL3DK/Ott0H7q5qXNuZ87jTuamOd2Yy6EyNduaU9NNWzpC51A0Q02PAyOp6EMjobJQgiDEKyEihT4gujDqpu6ChffF2f/6eX8XL/Cf9BIeyiQ8WJVi1BaIUCXPhk5EQCcmoBWeQdQxQT+Wgo2422/F4mgrlkdb8Gy0GcuhJjweasSDUDN+RiK4TXPwhPGxgzMjfqyHXViZcGDroQdb9934eO8ythcuYXP+IjYWnGgDsN5OY3sjyA7Ojg3g+Q0XngYb8WKqI+bVpOfA2rQn4fVs57E1pvPgS6Z7z2a7DG/Gm7G6OMwO3gx0YabLjElnBaa99jimx0aFvTZ/2Gu7xnhtlUxfw9GVjbcYlO7DfNDDDk4N+eAyqtGgFqO/1czx1RtC3Rb6yxUL/a33giF8vcUiWl2aj4lEIpjoc7KDt0b8KJdkQcVNgrvufEq9XjNVrcz7bSrM+2MvVT9ym405P76/j9ndhnpcUfxwPAA9Lw1UOhcOY1miQSoMlKSd2ilN4/4yivgzNm1R+u7uOIDhq53s4NzYACokfFTJxWgyUIfKhUQbyT3xWctJ3KGJ1AFTkTxReiQeyqQEMLMjUYDjAVh0KjhqK+BusMQa5JI6MiPlg/o05yst4nvsBvowRaSCEmTA1lbDDnb4BlGj16LebITTYY89p5RbySziHSnI/FSuyHXbayrj6VwBaJkIve0OdnA3slCBYmU+rGbTfk2+TKcUZ81ppKI7dHGBqdp4Nk6ryEFpoQw8Hi86kE9kgpt8EiWkeo9YKEjIlWRLVSpFHlWmSdbTur0llBqktuifx38BxZTEBrEV0ZcAAAAASUVORK5CYII=",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/f976f15f8dfb50b785aa18569c2e57eb4e5abd0b-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Coca-Cola®",
             "Category": 9,
-            "Link": "https://www.burgerking.nl/menu/picker-f7174b18-4d13-44b1-8e40-da1451f1f177"
+            "Link": "https://www.burgerking.nl/menu/picker-f7174b18-4d13-44b1-8e40-da1451f1f177",
+            "Description": "Heerlijk verfrissend. Perfect bij elke burger. Met rietje of zonder rietje. Geniet van de originele smaak van Coca-Cola®."
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACdUlEQVQ4jYXQX0xSURwH8O/crIeWY+sPlboiCx2iJqgXAvMPXCDlAjIUuSCKLAUt5WqiaQaZFmn5L3FgyzBrs2zMraWVa2u+1EMvPfTSY+bafLStrXq4DbZ6qIf7fTlnO9/zOfsd4J+sLEzj1fh5sBtjeBO7jsehTixea8PyrU68jgXwNj4Jlt3Ex6U+rD6aAGeWx87h+9YGWPYT7l+uw7A1D8bdgCMdCBjEmPaowLIsWPYrFgbrucH3k1TyQiKxLjUmjftwJQW4LQbu1ufgYbsMTkFNsjNv288Nrs0N4MWwE6uDZjybYlLXpjsPr8/4xOthRvQyzBx6Hu7e9WHchncTbqzMdHOD4UA7RvW5COalYLa/OT3ib/DO+R0Pon5HLNLr9Eb7XZmJXqhoLxZDPdzgyEVPck2MFGizF15qMi/10NSO32HcGXBZngx5aCnL/kieR4b83OCgr/Xvnmm0FroNuqe0quxng6byV6upKs7YLdI/fzzW6+MGBzpakJjpCACPufqERV40W50r3DHkZn+rIyQRd5X6ZKK3J/G418UNBphWaLOPQZNzHK5qFd9wShQgBRnbGkH6NiUWBulKJV/CP4gS/gEE25u4wdFgH5ooEm6jDl5bDc8sl3aR2VlbaqHgCyXJY5x6Dc9SroClTI6Z0avc4Py9KOwGHWyUFi0NVp7pjJwhC0SbmnzRZ5OS8DXXGnlWXQWs2gqE70xxgzdGhlChICAvLkRtDZWmVhB0ubQgriYkcaqylKYtxjRSWQKNksDN0Ag32Oi0Q5QjxNHMDJQq5KlFkvwsGSEhVapS8myVOkuv16aeVhRDJpOi40Lbf8BvyVLP84NwuZUAAAAASUVORK5CYII=",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/6978ce67a73ca9fef83782fb12569644554f7460-590x393.png?w=320&q=40&fit=max&auto=format",
             "Name": "Coca-Cola® Zero Sugar",
             "Category": 9,
-            "Link": "https://www.burgerking.nl/menu/picker-ef52576e-3a83-4777-8e63-2e148ec8effb"
+            "Link": "https://www.burgerking.nl/menu/picker-ef52576e-3a83-4777-8e63-2e148ec8effb",
+            "Description": "Of het nu grote of kleine slokken zijn, Coca-Cola® Zero Sugar biedt je great taste en is ook nog eens met zero sugar."
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACZklEQVQ4jY3SXUhTcRjH8Z9CkHShXrgoEAeF1o1BCpaYFGQJFUZCkXQnRXhRWFgujRJGvpJkWVE6qaTJtMxspkvHNo+bOztuZ2duZ7NNncy3rQ3dyllY/9CLCCKOX3huHng+Vw/wnwIz+r+GQmBGB79X/We36cy0GRFfBwi5Chc3jCnHELy8Eh5rFziDHJTqFaoklSCEQNklEwa1+jC+TesAENB0GA7bLDyuCThsPIY1PBQdHMTpDRtgTR0tDI4Y5uBiNZig+2DSszF2Cx3n5Kgk+5haZNQNbOt90xu7joXmGbQ8/SAM8owC4dl2ENIDr/11gs8pPzbLvyifsT2pdDONBeMjDaJPnc0gpAUW7QNhcMrchNB0PQjpht9Vu9vnqLs/ZZFOehmJz2e+3uZjr+13U2UxLnUZfGyZMLjA3YaNksLJtCLoKEl1GMpbqf67UWPfrTU3VfLezxUd+MmLYggBwo7TwmDEXgxWVQqnWoKg+XgKp77UNNhdsTzYeWPVNlAk9xtz961jzfUj+GrNEgZJJB6LpqNYZvMRYTN3ztO51R7d4eDnoayVOc1eWXhUnBZVxWJRnYyg/qAwGPZU4TufjjV3Nla4zKToeGpl1LZ9IcrGR1YtiY9WLcniX1bgh3UrAtQpYfCLqRgBJgfzdB4WDEcSQ0zGlTC7ZzJi3eVftqTdC5oydoYYEZbM4o1f3FSGd2eglOWDUhTEWfsLT7ipcy+nR88rJrRnL4wpCxP0b3PAqU5iSbM5Dw9rSnGxKA/VkuJYRZt0h/bj82yjpv2QqudxyrPGm1tq71yGXCaF31jxz/Fv1qFUPa+g+xgAAAAASUVORK5CYII=",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/e847fed62143a76a22d245124b94d969576d1503-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Fanta®",
             "Category": 9,
-            "Link": "https://www.burgerking.nl/menu/picker-5ccc7ff0-92bd-4b88-9d56-3130866a2489"
+            "Link": "https://www.burgerking.nl/menu/picker-5ccc7ff0-92bd-4b88-9d56-3130866a2489",
+            "Description": "Beleef de heerlijke fruitige sensatie van Fanta®. Een lekkere combinatie van vruchtensap met sprankelend water, voor grote en kleine dorst."
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACIUlEQVQ4jbXRTUgUYRgH8CcqCIoMg/BQERFB0aWThkThPejepfTYMakWSTDtQyLUilpbTVcPNfulu6vrzszOO7Ozu/P9scPO7E4zIuRFUAKjohBiYifYUzRe+p9eeP7vD973Afjf6b15CzzP88/xWAx0TQXHsaFer4GqSFBkaOi+cs3vYBgWDB5tP9YCBwcGgUYI1mwXNpxP4ComrKSX/VmzMzzyNBjs6rzUAiNvIyBIwn6rXjtkW2abWdUP0BS1pzn/urUJ4+MvgsEnj0ZaIKIKhxuW2eU6dp9pGrc1Te6RRP5IIhr3OySBB4Mz7yItUJbFsw2nPmo4Ro01SjajFidERTi/w61DnxcFlqWDwWwmBdveLx81avoF2dHmcYv5mVCzO0tSHqvI5Yte2YNedwyKDBUMVko0sKsSqJ9tEDXhTMFgJ9NV4ltWwX9QEopyUvkc2lCBsFgg8NxuQAbkmgzmmgWIIU+wEvu8onPbki5+l2U+zHOl0+7HBhiGCnj+z8b/meZTq7oCtm3BSi7bwfOloaqubOma/IXnSmMknjupqRJIIgerrh0MikLZ/xtEEZBeTLYziLwj8OV1Uahs0oh4mEx86CCJHCAKby0vMPNzM/Bs9DFEZ6cPLqTi16kCjrFFtLC8lL4xGX7VNjc7BakkBpnF5O7A0P1+uNzdCaF7/XvfvH55PJNOXi2Q+Z547P2pgdDdfcNDD2B6KvzXy78Bs9RFarkxuagAAAAASUVORK5CYII=",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/86207de7b85103813e92be4a81b67263b361c451-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Sprite® Zero Sugar",
             "Category": 9,
-            "Link": "https://www.burgerking.nl/menu/picker-6c869c40-ae77-43da-a1ea-66db9a44009d"
+            "Link": "https://www.burgerking.nl/menu/picker-6c869c40-ae77-43da-a1ea-66db9a44009d",
+            "Description": "Sprite® is de ideale dorstlesser met een unieke, verfrissende lemon-lime smaak. En die great taste is vanaf nu met 30% minder suiker en calorieën dankzij stevia-extract."
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACVElEQVQ4jbXOW0hTAQDG8W9BsZdGQVIPZXl5EOrBIlCJMsuYXXDlTDSZms7LSB2zaFM7kzV3M5labs7jUTcvOTdlTXQryAvq3HSmNmOKXaCiXiwIukgRnNCHXno4e+n//v34gP9de50cNP0DNE3D77ZjaaQbCwMGPBswwu+0YHrYjn6bAzJbEO5BGzNINd7bwjabX1jF6uIS1uam8DIQwMqbz1h8u4HxGR/6xqcwG3wXAqjX/AUXvF7WyszYjuDE8M7lCTfnuWeSPe9fZE1OjuLXCAmvz88Mtt2VgH7v2UJnrQ0cf4/2hLftTqGXlIl8ncQ5j6U2rJ8yQUItw9WqDuEhUYxP7sYtcNpYEeFpFqvH6wpejNVmrk2oMlpHNdeOkspqlkj7BIMKITPYWXUd8y0V+OAywF2THj2qzSefaoTfXdX8346yRKe1OD5ecSOPhSwalIjLDFqrsvFYXYS5Njk6S84ccFRn6YeI7C+9Iu7PB+mxVvWlmFi2m4YvCZDzE5jBodxwOOUCBCwKmAqT93WXpijbc+PW9RciN5Rnw83E+cMxY9GAIQ4QpyUzg/1SPhyVGQh0ydFRnrrHXHhKargc9VGXuOubKimsRcU7EmnmAvWn2VCWFTCDmz2UZcJlkIK6nc2xlKaIOgTHXpmuRK3redE6Bf/4firrIO6nReDr67nQQJIoRpPiJhoqS9hmQsi1EQKzvfKqnRLzcuR5F3ebb6WiXcILDdtMUyNDfq4A5SLhNrJJt/dRjynB1Uee7DXWHaoSF22nGpToatbCaqz/Z/wHSRECd9JTpjoAAAAASUVORK5CYII=",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/1866e928eceda2c10b4b98bc71f5cacefb25a28c-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Fuze Tea® Sparkling Black Tea",
             "Category": 9,
-            "Link": "https://www.burgerking.nl/menu/picker-bd73e787-dd43-4efa-a72e-0f7ec2e9b6e8"
+            "Link": "https://www.burgerking.nl/menu/picker-bd73e787-dd43-4efa-a72e-0f7ec2e9b6e8",
+            "Description": "De perfecte aanvulling op onze vers gegrilde burgers: een ijskoude Fuze Tea® Sparkling Black Tea!"
         },
         {
-            "Thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAACSklEQVQ4jY3Oa0tTAQCH8X+XkbA0oujFgqAsSdFltRmpSdNwcyaZ2hYpqBk5U8qmpjNSDFtZSbVyzhRvQyhNbWyN2ZbYdGmi22hp045HWwm1nYVTutGCvoAvzvMBfjzAKp28fRx3DFIUq3MRXXEEkcVRYF+MArc0FqJ6MQS1QsRdjQftwisOobz/BDKUCWCejQRE4UB6GHAmAmwZD1sKwhCQHUofTL+bjLZhKaq6c8C5EssIKeJu2l3I3cyWxmzIvC8C/4YAhyuP0gfzFFloMtWhprtsTUpN0vYEGS81XsYTC6uT9kiU+etyFTk4dSuDPtiprYLxnRkaS9faxq6s/YrWlHpFa0qzqivz2DNjHaNTfx0tvZfog15rOXwfWuCbrGV4LKJEt5mvd5v5byhLRvaKtWwjNVkEajyPPuh/LcC/YSF+GdOYflNMtt94YPrPS87isjHumseUuo0y7sOSKZo++Ft3EH/NHCzrE4N+9rALVtR757+qI73E09ibDo2QNabhYKonij7oG8rDD2cpvKOVgd/7xJJv7UmkqyOVmus/LyeGq1n2wRI4tflQKFX0wPmpF/B4HPhMjAVOj3RIbPp60m645yXGu+WUy8ZyExZ8smuhaGikBzqsGnz5+BYztoGg0ZE2yeCrB6R56BHlmHgiX5w1s5YWRkG+19E/dGoL4TLIMKORMu39OWkTfeJe6/PTA9O6cwWk/vJW92AJSMMF+uBcYzjIhxGYbeCuJ1ShO+ceByeSzbuSyaaQMEIZEeBS7sCCKnhV8D8lP/1nJaOQtgAAAABJRU5ErkJggg==",
+            "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/27aa11dd791c17ee7dd933c13ca455d3aae1fe08-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Tropicana Orange",
             "Category": 9,
-            "Link": "https://www.burgerking.nl/menu/picker-c140a532-9400-4f42-83a8-fe37023811bd"
+            "Link": "https://www.burgerking.nl/menu/picker-c140a532-9400-4f42-83a8-fe37023811bd",
+            "Description": "Als je bij Burger King® orange juice bestelt, dan krijg je... de beste orange juice! Tropicana bestaat uit 100% puur vers geperst sinaasappelsap."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/b8673167b532b6f8e89b3fb962dd8a1f7b0db87b-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Fritessaus",
             "Category": 10,
-            "Link": "https://www.burgerking.nl/menu/item-item_68736"
+            "Link": "https://www.burgerking.nl/menu/item-item_68736",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/df99e3c6f42313e98467ff94f2e08dfeae31e2ab-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Ketchup",
             "Category": 10,
-            "Link": "https://www.burgerking.nl/menu/item-item_68739"
+            "Link": "https://www.burgerking.nl/menu/item-item_68739",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/5dcba6d95294779c006919de5f3a29e14a2296fa-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "BBQ saus",
             "Category": 10,
-            "Link": "https://www.burgerking.nl/menu/item-item_68675"
+            "Link": "https://www.burgerking.nl/menu/item-item_68675",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/da26ab1a9697e6680cc1be436115927b5248280b-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Knoflooksaus",
             "Category": 10,
-            "Link": "https://www.burgerking.nl/menu/item-item_68737"
+            "Link": "https://www.burgerking.nl/menu/item-item_68737",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/dd450f7fd043c9189046b3bb12555c78b3648e78-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Salsa saus",
             "Category": 10,
-            "Link": "https://www.burgerking.nl/menu/item-item_68738"
+            "Link": "https://www.burgerking.nl/menu/item-item_68738",
+            "Description": "No description"
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/f7424742741bd25bac4a8fa0026baedff0a0bc32-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Crispy BBQ King Menu",
             "Category": 11,
-            "Link": "https://www.burgerking.nl/menu/picker-ece3fa17-5220-4115-9c9f-f356ec8eeb52"
+            "Link": "https://www.burgerking.nl/menu/picker-ece3fa17-5220-4115-9c9f-f356ec8eeb52",
+            "Description": "Proef onze kruidige BBQ saus op de Crispy BBQ Chicken. De malse kip heeft een knapperige lichtpittige bite en zachte binnenkant. Het sesambroodje wordt nog extra versierd met verse sla. Ontdek hem snel, deze mag je niet overslaan."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/84929349b46ffc09827ab530508edfbaaa18f9a7-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "King's Burger Cheese King Menu",
             "Category": 11,
-            "Link": "https://www.burgerking.nl/menu/picker-ec494522-0a6a-4aca-8257-b38a5b4b6319"
+            "Link": "https://www.burgerking.nl/menu/picker-ec494522-0a6a-4aca-8257-b38a5b4b6319",
+            "Description": "Wat maakt de King's Burger Cheese zo royaal? Is het die dikke plak smeltende cheddar kaas? Of zijn het die twee Flame-Grilled Beefburgers? Het is natuurlijk de combinatie daarvan! De burger is voorzien van heerlijke mayonaise, ketchup en verse sla. En dat allemaal tussen twee vers geroosterde sesambroodjes. Zelfs koningen zouden hier hun vingers bij aflikken."
         },
         {
             "Thumbnail": "https://cdn.sanity.io/images/czqk28jt/prod_bk_nl/e3a2e6fa6bdb5738ba8ae9e48f22bc7dbd0cb494-870x570.png?w=320&q=40&fit=max&auto=format",
             "Name": "Veggie Double Cheeseburger King Menu",
             "Category": 11,
-            "Link": "https://www.burgerking.nl/menu/picker-bce07cc4-29ca-4622-8d89-312a0772b024"
+            "Link": "https://www.burgerking.nl/menu/picker-bce07cc4-29ca-4622-8d89-312a0772b024",
+            "Description": "De Veggie Double Cheeseburger is dubbel zo, groot en dubbel zo lekker. Geniet van niet één, maar twee lagen heerlijk smeltende cheddarkaas en een sappige plantaardige stukje beef. De burger bestaat verder uit vers geroosterde sesambroodjes met augurk, ketchup en mosterd. De Veggie Double Cheeseburger is niet voor niets tot één van de populairste Veggie burgers bekroond."
         }
     ]
 }
