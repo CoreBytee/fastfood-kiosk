@@ -20,12 +20,13 @@
         <!-- Scripts -->
         <script src="/assets/script/screens.js" defer></script>
         <script src="/assets/script/keyboard.js" defer></script>
+        <script src="/assets/script/searchswapper.js" defer></script>
     </head>
 
     <body>
         <div class="topbar">
             <img class="logo" src="/assets/image/logo.png" alt="logo">
-            <div class="searchbar button">
+            <div class="searchbar button" id="searchbutton">
                 <i class="bi bi-search"></i>
             </div>
             <div class="languageselector button">
@@ -37,11 +38,11 @@
         </div>
         <div class="container">
             <div class="screens">
-                <div id="products" class="products" >
+                <div id="products" class="products" default>
                     <div class="categories"></div>
                     <div class="items"></div>
                 </div>
-                <div id="languageselector" class="languageselector" default>
+                <div id="languageselector" class="languageselector">
                     <button class="language" id="dutch">
                         <img src="/assets/image/flags/nl.svg" alt="">
                         <h1>Nederlands</h1>
@@ -55,7 +56,7 @@
                         <h1>Deutsch</h1>
                     </button>
                 </div>
-                <div id="searchmenu" class="searchmenu" >
+                <div id="searchmenu" class="searchmenu">
                     <div class="products">
 
                     </div>
