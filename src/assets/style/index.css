@@ -164,8 +164,10 @@ body {
 
                     background-color: var(--color-white-tertiary);
                     padding: 20px;
-                    border-radius: 20px;
                     width: 100%;
+
+                    border-top-left-radius: 20px;
+                    border-top-right-radius: 20px;
 
                     input {
                         font-weight: bold;
