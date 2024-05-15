@@ -19,6 +19,7 @@
 
         <!-- Scripts -->
         <script src="/assets/script/screens.js" defer></script>
+        <script src="/assets/script/keyboard.js" defer></script>
     </head>
 
     <body>
@@ -54,8 +55,14 @@
                         <h1>Deutsch</h1>
                     </button>
                 </div>
-                <div id="searchmenu" class="searchmenu">
+                <div id="searchmenu" class="searchmenu" >
+                    <div class="products">
 
+                    </div>
+                    <div class="searchcontainer">
+                        <input type="text" class="searchbar" placeholder="Zoeken..." id="searchinput" disabled>
+                        <div class="keyboard" inputid="searchinput"></div>
+                    </div>
                 </div>
             </div>
             <div class="order">
