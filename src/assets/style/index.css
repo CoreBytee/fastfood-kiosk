@@ -218,7 +218,7 @@ body {
             .key {
                 font-size: 1.5rem;
                 font-weight: bold;
-                text-transform: capitalize;
+                text-transform: uppercase;
                 flex: 1 1
             }
         }
