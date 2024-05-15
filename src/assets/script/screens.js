@@ -19,3 +19,11 @@ window.SetScreen = function(ScreenId) {
         }
     )
 }
+
+window.GetScreen = function() {
+    return ScreenElements.find(
+        (ScreenElement) => {
+            return !ScreenElement.classList.contains("hidden")
+        }
+    ).id
+}
