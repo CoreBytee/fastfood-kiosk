@@ -1,0 +1,8 @@
+{
+    "devDependencies": {
+        "mysql2": "^3.9.7"
+    },
+    "scripts": {
+        "insert": "bun ./scripts/insert.js"
+    }
+}
