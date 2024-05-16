@@ -20,9 +20,16 @@ async function fetchThumbnail(thumbnailUrl, slug) {
         const base64Data = thumbnailUrl.replace(/^data:image\/png;base64,/, "");
         fs.writeFileSync(thumbnailPath, base64Data, "base64");
     } else {
-        const fileResponse = await fetch(thumbnailUrl);
-        const fileData = await fileResponse.blob();
-        fs.writeFileSync(thumbnailPath, fileData);
+        const fileResponse = await fetch(
+            thumbnailUrl.split("?")[0],
+            {
+                headers: {
+                    accept: "image/png"
+                }
+            }
+        );
+        console.log(thumbnailUrl.split("?")[0], fileResponse.headers.get("content-type"))
+        fs.writeFileSync(thumbnailPath, await fileResponse.arrayBuffer());
     }
 
     return thumbnailPath
