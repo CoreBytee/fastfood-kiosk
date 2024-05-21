@@ -42,6 +42,25 @@ for (const category of categories) {
                 productPrice.innerText = `$${product.price}`
                 productElement.appendChild(productPrice)
 
+                const actionHolder = document.createElement("div")
+                actionHolder.classList.add("actions")
+                productElement.appendChild(actionHolder)
+
+                const removeButton = document.createElement("button")
+                removeButton.innerText = "-"
+                removeButton.classList.add("remove")
+                actionHolder.appendChild(removeButton)
+
+                const quantity = document.createElement("p")
+                quantity.innerText = 0
+                quantity.classList.add("quantity")
+                actionHolder.appendChild(quantity)
+
+                const addButton = document.createElement("button")
+                addButton.innerText = "+"
+                addButton.classList.add("add")
+                actionHolder.appendChild(addButton)
+
                 productHolder.appendChild(productElement)
             }
         }
