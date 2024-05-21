@@ -10,3 +10,14 @@ LanguageButton.addEventListener(
         }
     }
 )
+
+document.querySelectorAll(".language").forEach(
+    (Language) => {
+        Language.addEventListener(
+            "click",
+            () => {
+                SetScreen("products")
+            }
+        )
+    }
+)
