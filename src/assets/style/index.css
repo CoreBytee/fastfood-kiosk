@@ -37,6 +37,7 @@ input {
     transition: background-color 0.3s;
     font-size: 1.5rem;
     border: none;
+    cursor: pointer;
 
     &:hover {
         background-color: var(--color-button-hover);
@@ -97,7 +98,7 @@ body {
         display: flex;
         flex-direction: row;
 
-        height: 100%;
+        height: 85%;
 
         .screens,
         .order {
@@ -112,10 +113,68 @@ body {
             & > div {
                 width: 100%;
                 height: 100%;
-                overflow-y: scroll;
+                /* overflow-y: hidden; */
 
                 &.hidden {
                     display: none;
+                }
+            }
+
+            .products {
+                display: flex;
+                flex-direction: column;
+
+                .categories {
+                    height: 25%;
+                    display: flex;
+                    flex-direction: row;
+                    overflow-x: scroll;
+                    padding: 20px;
+                    gap: 20px;
+
+                    .category {
+                        padding: 10px;
+                        border-radius: 10px;
+                        background-color: var(--color-white-tertiary);
+                        aspect-ratio: 1/1;
+
+                        img {
+                            width: 100%;
+                        }
+
+                        p {
+                            font-size: 1rem;
+                            font-weight: bold;
+                        }
+                    }
+                }
+
+                .productitems {
+                    display: grid;
+                    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+                    grid-template-rows: repeat(auto-fill, minmax(200px, 1fr));
+
+                    gap: 20px;
+                    padding: 20px;
+                    
+                    height: 75%;
+                    overflow-y: scroll;
+                    padding-top: 0px;
+
+                    .product {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: start;
+                        gap: 5px;
+                        padding: 10px;
+                        border-radius: 10px;
+                        background-color: var(--color-white-tertiary);
+
+                        img {
+                            border-radius: 10px;
+                            width: 100%;
+                        }
+                    }
                 }
             }
 
