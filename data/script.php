@@ -5,7 +5,7 @@
         echo $mysqli->connect_error;
     }
 
-    $json_data = file_get_contents('burgerking.json');
+    $json_data = file_get_contents('./data/burgerking.json');
     echo $json_data;
     $products = json_decode($json_data, JSON_OBJECT_AS_ARRAY);
 
