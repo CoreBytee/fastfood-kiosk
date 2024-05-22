@@ -1,19 +1,19 @@
 <?php
 require '../../helpers/setup.php';
-$response = array();
 
-$sql = 'SELECT * FROM products ';
-$result = mysqli_query($mysql, $sql);
+$result = mysqli_query(
+    $mysql,
+    'SELECT * FROM products '
+);
 if ($result) {
     header("Content-Type: json");
-    $i = 0;
+    $response = array();
+
     while ($row = mysqli_fetch_assoc($result)) {
-        $response[$i]['id'] = $row['id'];
-        $response[$i]['Name'] = $row['Name'];
-        $response[$i]['img'] = $row['img'];
-        $response[$i]['discription'] = $row['discription'];
-        $response[$i]['price'] = $row['price'];
-        $i++;
+        array_push(
+            $response,
+            $row
+        );
     }
     echo json_encode($response, JSON_PRETTY_PRINT);
 }

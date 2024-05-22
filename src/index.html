@@ -21,6 +21,8 @@
         <script src="/assets/script/screens.js" defer></script>
         <script src="/assets/script/keyboard.js" defer></script>
         <script src="/assets/script/searchswapper.js" defer></script>
+        <script src="/assets/script/languageswapper.js" defer></script>
+        <script src="/assets/script/products.js" defer type="module"></script>
     </head>
 
     <body>
@@ -29,7 +31,7 @@
             <div class="searchbar button" id="searchbutton">
                 <i class="bi bi-search"></i>
             </div>
-            <div class="languageselector button">
+            <div class="languageselector button" id="languagebutton">
                 <div>
                     <img src="/assets/image/flags/nl.svg" alt="Language flag">
                 </div>
@@ -39,25 +41,25 @@
         <div class="container">
             <div class="screens">
                 <div id="products" class="products" default>
-                    <div class="categories"></div>
-                    <div class="items"></div>
+                    <div class="categories" id="categories"></div>
+                    <div class="productitems" id="products"></div>
                 </div>
                 <div id="languageselector" class="languageselector">
-                    <button class="language" id="dutch">
+                    <button class="language" id="dutch" style="--index: 1" type="button">
                         <img src="/assets/image/flags/nl.svg" alt="">
                         <h1>Nederlands</h1>
                     </button>
-                    <button class="language" id="english">
+                    <button class="language" id="english" style="--index: 2" type="button">
                         <img src="/assets/image/flags/gb.svg" alt="">
                         <h1>English</h1>
                     </button>
-                    <button class="language" id="german">
+                    <button class="language" id="german" style="--index: 3" type="button">
                         <img src="/assets/image/flags/de.svg" alt="">
                         <h1>Deutsch</h1>
                     </button>
                 </div>
                 <div id="searchmenu" class="searchmenu">
-                    <div class="products">
+                    <div class="productitems" id="searchresults">
 
                     </div>
                     <div class="searchcontainer">
@@ -68,12 +70,12 @@
             </div>
             <div class="order">
                 <div class="receiptholder">
-                    <div class="receipt"></div>
+                    <div class="receipt" id="receiptholder"></div>
                 </div>
                 <div class="actions">
                     <div class="totalprice">
                         <h3>Totale prijs</h3>
-                        <h3>€23-</h3>                        
+                        <h3 id="totalprice">$0-</h3>                        
                     </div>
                     <button class="bigbutton">Afrekenen</button>
                 </div>

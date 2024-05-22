@@ -37,6 +37,10 @@ Keyboards.forEach(
                                 } else {
                                     Input.value += Key
                                 }
+
+                                Input.dispatchEvent(
+                                    new Event("input")
+                                )
                             }
                         )
                     }
