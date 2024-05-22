@@ -15,6 +15,12 @@ window.SetScreen = function(ScreenId) {
                 ScreenElement.classList.remove("hidden")
             } else {
                 ScreenElement.classList.add("hidden")
+
+                if (ScreenElement.hasAttribute("fullscreen")) {
+                    document.body.classList.add("fullscreen")
+                } else {
+                    document.body.classList.remove("fullscreen")
+                }
             }
         }
     )
