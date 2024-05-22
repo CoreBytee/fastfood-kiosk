@@ -65,10 +65,38 @@ body {
     background-color: var(--color-white-secondary);
     height: 100vh;
 
+    &.fullscreen {
+        .topbar {
+            top: -50%;
+            position: absolute;
+        }
+
+        .container {
+            top: 0%;
+            height: 100%;
+
+            .screens {
+                width: 100%;
+                border-top-right-radius: 0;
+            }
+
+            .order {
+                position: absolute;
+                right: -30%;
+            }
+        }
+    }
+
     .topbar {
         height: 15%;
+        width: 100%;
         padding: 20px;
         gap: 10px;
+
+        transform: translateY(0);
+        transition: top 0.5s ease-in-out;
+        top: 0;
+        position: absolute;
 
         display: flex;
         align-items: center;
@@ -99,7 +127,11 @@ body {
         display: flex;
         flex-direction: row;
 
+        transition: top 0.5s ease-in-out, height 0.5s ease-in-out;
+        position: absolute;
+        top: 15%;
         height: 85%;
+        width: 100%;
 
         .screens,
         .order {
@@ -111,6 +143,7 @@ body {
             width: 70%;
             border-top-right-radius: 30px;
             position: relative;
+            transition: width 0.5s ease-in-out, border-top-right-radius 0.5s ease-in-out;
 
             &>div {
                 width: 100%;
@@ -231,6 +264,8 @@ body {
             flex-direction: column;
 
             width: 30%;
+            right: 0;
+            transition: right 0.5s ease-in-out;
 
             .receiptholder {
                 height: 80%;
